@@ -173,8 +173,8 @@ export default function Home() {
             </div>
           </div>
 
-          <div className='relative hidden min-h-[470px] lg:block'>
-            <Card className='absolute left-4 top-3 w-[390px] rotate-[-3deg] border-0 bg-white py-0 shadow-[0_30px_70px_-25px_rgba(30,41,59,.4)] ring-1 ring-slate-200'>
+          <div className='relative hidden min-h-116 lg:block'>
+            <Card className='absolute left-4 top-3 w-96 -rotate-3 border-0 bg-white py-0 shadow-[0_30px_70px_-25px_rgba(30,41,59,.4)] ring-1 ring-slate-200'>
               <CardContent className='p-7'>
                 <div className='flex items-start justify-between'>
                   <div className='flex items-center gap-3'>
@@ -261,10 +261,14 @@ export default function Home() {
                 <CardContent className='p-6 sm:p-7'>
                   <div className='flex flex-col justify-between gap-4 sm:flex-row sm:items-start'>
                     <div className='flex items-center gap-3'>
-                      <Avatar size='lg' className='rounded-xl'><AvatarFallback className={`rounded-xl font-bold ${review.color}`}>{review.initials}</AvatarFallback></Avatar>
+                      <Avatar size='lg'>
+                        <AvatarFallback className={`${review.color}`}>{review.initials}</AvatarFallback>
+                      </Avatar>
                       <div><p className='font-bold'>{review.company}</p><p className='text-xs text-slate-500'>{review.role}</p></div>
                     </div>
-                    <div className='flex items-center gap-2'><Stars rating={review.rating} /><span className='text-sm font-bold'>{review.rating}.0</span></div>
+                    <div className='flex items-center gap-2'>
+                      <Stars rating={review.rating} />
+                    </div>
                   </div>
                   <h3 className='mt-6 text-lg font-bold'>{review.title}</h3>
                   <p className='mt-2 leading-6 text-slate-600'>{review.body}</p>
@@ -280,11 +284,13 @@ export default function Home() {
       </section>
 
       <section id='categories' className='mx-auto max-w-7xl px-5 py-20 lg:px-8'>
-        <div className='text-center'><p className='text-sm font-bold uppercase tracking-[.18em] text-indigo-600'>Find your fit</p><h2 className='mt-2 text-3xl font-extrabold tracking-tight sm:text-4xl'>Explore by industry</h2></div>
+        <div className='text-center'>
+          <p className='text-sm font-bold uppercase tracking-[.18em] text-indigo-600'>Find your fit</p>
+          <h2 className='mt-2 text-3xl font-extrabold tracking-tight sm:text-4xl'>Explore by industry</h2>
+        </div>
         <div className='mt-9 grid gap-3 sm:grid-cols-2 lg:grid-cols-4'>
           {categories.map(({ name, count, icon: Icon, tone }) => (
             <a key={name} href='#' className='group flex items-center gap-4 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-200 hover:shadow-md'>
-              <span className={`grid size-11 place-items-center rounded-xl ${tone}`}><Icon className='size-5' /></span>
               <span className='flex-1'><span className='block font-bold'>{name}</span><span className='text-xs text-slate-500'>{count}</span></span>
               <ChevronRight className='size-4 text-slate-300 transition group-hover:translate-x-1 group-hover:text-indigo-600' />
             </a>
@@ -294,8 +300,8 @@ export default function Home() {
 
       <section id='employers' className='mx-auto max-w-7xl px-5 pb-20 lg:px-8'>
         <div className='relative overflow-hidden rounded-[2rem] bg-indigo-600 px-6 py-12 text-white shadow-2xl shadow-indigo-200 sm:px-12 lg:flex lg:items-center lg:justify-between lg:px-16 lg:py-14'>
-          <div className='absolute -right-16 -top-24 size-72 rounded-full border-[50px] border-white/10' />
-          <div className='absolute bottom-[-100px] left-[40%] size-52 rounded-full bg-cyan-300/20 blur-3xl' />
+          <div className='absolute -right-16 -top-24 size-72 rounded-full border-12 border-white/10' />
+          <div className='absolute bottom-25 left-[40%] size-52 rounded-full bg-cyan-300/20 blur-3xl' />
           <div className='relative max-w-2xl'>
             <div className='flex items-center gap-2 text-sm font-semibold text-indigo-100'><Users className='size-5' /> Your voice makes work better</div>
             <h2 className='mt-4 text-3xl font-extrabold tracking-tight sm:text-4xl'>Had a workplace experience worth sharing?</h2>
