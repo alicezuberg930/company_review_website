@@ -19,6 +19,7 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
+import { SearchBox } from './layout/home/search-box'
 
 const companies = [
   {
@@ -119,9 +120,12 @@ function Stars({ rating = 5 }: { rating?: number }) {
   )
 }
 
-export default function Home() {
+export default function page() {
   return (
     <main className='min-h-screen overflow-hidden bg-[#fbfcff] text-slate-950'>
+
+      <SearchBox />
+
       <header className='relative z-20 border-b border-slate-200/80 bg-white/90 backdrop-blur-xl'>
         <div className='mx-auto flex h-18 max-w-7xl items-center justify-between px-5 lg:px-8'>
           <a href='#' className='flex items-center gap-2.5' aria-label='Truework home'>
@@ -230,7 +234,7 @@ export default function Home() {
           {companies.map((company) => (
             <Card key={company.name} className='group border-0 bg-white py-0 shadow-sm ring-1 ring-slate-200 transition duration-300 hover:-translate-y-1 hover:shadow-xl'>
               <CardContent className='p-5'>
-                <div className={`grid size-12 place-items-center rounded-xl bg-gradient-to-br ${company.color} font-extrabold text-white shadow-md`}>{company.initials}</div>
+                <div className={`grid size-12 place-items-center rounded-xl bg-linear-to-br ${company.color} font-extrabold text-white shadow-md`}>{company.initials}</div>
                 <h3 className='mt-5 text-lg font-bold'>{company.name}</h3>
                 <p className='mt-1 text-xs text-slate-500'>{company.industry}</p>
                 <div className='mt-4 flex items-center gap-2'>
