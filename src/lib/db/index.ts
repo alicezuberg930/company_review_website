@@ -2,9 +2,16 @@ import "server-only";
 
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
-import * as schema from "./schemas/companies-schema";
+import * as categoriesSchema from "./schemas/categories-schema";
+import * as companiesSchema from "./schemas/companies-schema";
 
+export * from "./schemas/categories-schema";
 export * from "./schemas/companies-schema";
+
+const schema = {
+  ...categoriesSchema,
+  ...companiesSchema,
+};
 
 const connectionString = process.env.POSTGRES_URL;
 
