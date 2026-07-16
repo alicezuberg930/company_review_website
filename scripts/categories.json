@@ -1,0 +1,3546 @@
+[
+  {
+    "business_code": 1,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy khác"
+  },
+  {
+    "business_code": 2,
+    "business_name": "Đại lý, môi giới, đấu giá"
+  },
+  {
+    "business_code": 3,
+    "business_name": "Bán buôn đồ dùng khác cho gia đình"
+  },
+  {
+    "business_code": 4,
+    "business_name": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)"
+  },
+  {
+    "business_code": 5,
+    "business_name": "Sản xuất bột giấy, giấy và bìa"
+  },
+  {
+    "business_code": 6,
+    "business_name": "Bán buôn chuyên doanh khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 7,
+    "business_name": "Sản xuất hoá chất cơ bản"
+  },
+  {
+    "business_code": 8,
+    "business_name": "Vận tải hàng hóa bằng đường bộ"
+  },
+  {
+    "business_code": 9,
+    "business_name": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 10,
+    "business_name": "Dịch vụ liên quan đến in"
+  },
+  {
+    "business_code": 11,
+    "business_name": "In ấn"
+  },
+  {
+    "business_code": 12,
+    "business_name": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu"
+  },
+  {
+    "business_code": 13,
+    "business_name": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "business_code": 14,
+    "business_name": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "business_code": 15,
+    "business_name": "Bán buôn vải, hàng may sẵn, giày dép"
+  },
+  {
+    "business_code": 16,
+    "business_name": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 17,
+    "business_name": "Hoàn thiện công trình xây dựng"
+  },
+  {
+    "business_code": 18,
+    "business_name": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 19,
+    "business_name": "Hoạt động thiết kế chuyên dụng"
+  },
+  {
+    "business_code": 20,
+    "business_name": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 21,
+    "business_name": "Quảng cáo"
+  },
+  {
+    "business_code": 22,
+    "business_name": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 23,
+    "business_name": "Cho thuê xe có động cơ"
+  },
+  {
+    "business_code": 24,
+    "business_name": "Cắt tóc, làm đầu, gội đầu"
+  },
+  {
+    "business_code": 25,
+    "business_name": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm"
+  },
+  {
+    "business_code": 26,
+    "business_name": "Bán buôn thiết bị và linh kiện điện tử, viễn thông"
+  },
+  {
+    "business_code": 27,
+    "business_name": "Sửa chữa máy vi tính và thiết bị ngoại vi"
+  },
+  {
+    "business_code": 28,
+    "business_name": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 29,
+    "business_name": "Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "business_code": 30,
+    "business_name": "Bán buôn thực phẩm"
+  },
+  {
+    "business_code": 31,
+    "business_name": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "business_code": 32,
+    "business_name": "Bán lẻ lương thực trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 33,
+    "business_name": "Bán lẻ thực phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 34,
+    "business_name": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 35,
+    "business_name": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động"
+  },
+  {
+    "business_code": 36,
+    "business_name": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất"
+  },
+  {
+    "business_code": 37,
+    "business_name": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 38,
+    "business_name": "Cưa, xẻ, bào gỗ và bảo quản gỗ"
+  },
+  {
+    "business_code": 39,
+    "business_name": "Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)"
+  },
+  {
+    "business_code": 40,
+    "business_name": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự"
+  },
+  {
+    "business_code": 41,
+    "business_name": "Bán buôn tre, nứa, gỗ cây và gỗ chế biến"
+  },
+  {
+    "business_code": 42,
+    "business_name": "Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 43,
+    "business_name": "Xây dựng nhà các loại"
+  },
+  {
+    "business_code": 44,
+    "business_name": "Xây dựng công trình đường bộ"
+  },
+  {
+    "business_code": 45,
+    "business_name": "Xây dựng công trình công ích"
+  },
+  {
+    "business_code": 46,
+    "business_name": "Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "business_code": 47,
+    "business_name": "Sản xuất thuỷ tinh và sản phẩm từ thuỷ tinh"
+  },
+  {
+    "business_code": 48,
+    "business_name": "Trồng ngô và cây lương thực có hạt khác"
+  },
+  {
+    "business_code": 49,
+    "business_name": "Trồng cây lấy củ có chất bột"
+  },
+  {
+    "business_code": 50,
+    "business_name": "Trồng cây điều"
+  },
+  {
+    "business_code": 51,
+    "business_name": "Trồng cây cà phê"
+  },
+  {
+    "business_code": 52,
+    "business_name": "Trồng cây chè"
+  },
+  {
+    "business_code": 53,
+    "business_name": "Phá dỡ"
+  },
+  {
+    "business_code": 54,
+    "business_name": "Chuẩn bị mặt bằng"
+  },
+  {
+    "business_code": 55,
+    "business_name": "Lắp đặt hệ thống điện"
+  },
+  {
+    "business_code": 56,
+    "business_name": "Bảo dưỡng và sửa chữa mô tô, xe máy"
+  },
+  {
+    "business_code": 57,
+    "business_name": "Bán buôn ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 58,
+    "business_name": "Đại lý"
+  },
+  {
+    "business_code": 59,
+    "business_name": "Sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "business_code": 60,
+    "business_name": "Sản xuất sản phẩm từ plastic"
+  },
+  {
+    "business_code": 61,
+    "business_name": "Sản xuất bê tông và các sản phẩm từ xi măng và thạch cao"
+  },
+  {
+    "business_code": 62,
+    "business_name": "Trồng cây hồ tiêu"
+  },
+  {
+    "business_code": 63,
+    "business_name": "Xây dựng công trình đường sắt và đường bộ"
+  },
+  {
+    "business_code": 64,
+    "business_name": "Hoạt động xây dựng chuyên dụng khác"
+  },
+  {
+    "business_code": 65,
+    "business_name": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "business_code": 66,
+    "business_name": "Trồng cây mía"
+  },
+  {
+    "business_code": 67,
+    "business_name": "Trồng cây thuốc lá, thuốc lào"
+  },
+  {
+    "business_code": 68,
+    "business_name": "Trồng cây ăn quả"
+  },
+  {
+    "business_code": 69,
+    "business_name": "Trồng cây lấy quả chứa dầu"
+  },
+  {
+    "business_code": 70,
+    "business_name": "Trồng cây gia vị, cây dược liệu"
+  },
+  {
+    "business_code": 71,
+    "business_name": "Xây dựng công trình kỹ thuật dân dụng khác"
+  },
+  {
+    "business_code": 72,
+    "business_name": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 73,
+    "business_name": "Bán lẻ ô tô con (loại 12 chỗ ngồi trở xuống)"
+  },
+  {
+    "business_code": 74,
+    "business_name": "Sản xuất sản phẩm khác từ cao su"
+  },
+  {
+    "business_code": 75,
+    "business_name": "Sản xuất sắt, thép, gang"
+  },
+  {
+    "business_code": 76,
+    "business_name": "Trồng lúa"
+  },
+  {
+    "business_code": 77,
+    "business_name": "Trồng cây lấy sợi"
+  },
+  {
+    "business_code": 78,
+    "business_name": "Trồng cây cao su"
+  },
+  {
+    "business_code": 79,
+    "business_name": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí"
+  },
+  {
+    "business_code": 80,
+    "business_name": "Lắp đặt hệ thống xây dựng khác"
+  },
+  {
+    "business_code": 81,
+    "business_name": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "business_code": 82,
+    "business_name": "Đại lý ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 83,
+    "business_name": "Dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "business_code": 84,
+    "business_name": "Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh"
+  },
+  {
+    "business_code": 85,
+    "business_name": "Dịch vụ phục vụ đồ uống"
+  },
+  {
+    "business_code": 86,
+    "business_name": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 87,
+    "business_name": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng (phục vụ tiệc, hội họp, đám cưới...)"
+  },
+  {
+    "business_code": 88,
+    "business_name": "Sản xuất vật liệu xây dựng từ đất sét"
+  },
+  {
+    "business_code": 89,
+    "business_name": "Sản xuất sản phẩm gốm sứ khác"
+  },
+  {
+    "business_code": 90,
+    "business_name": "Cắt tạo dáng và hoàn thiện đá"
+  },
+  {
+    "business_code": 91,
+    "business_name": "Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 92,
+    "business_name": "Đúc sắt, thép"
+  },
+  {
+    "business_code": 93,
+    "business_name": "Sản xuất các cấu kiện kim loại"
+  },
+  {
+    "business_code": 94,
+    "business_name": "Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 95,
+    "business_name": "Sản xuất giường, tủ, bàn, ghế"
+  },
+  {
+    "business_code": 96,
+    "business_name": "Sản xuất đồ kim hoàn và chi tiết liên quan"
+  },
+  {
+    "business_code": 97,
+    "business_name": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 98,
+    "business_name": "Sản xuất xi măng, vôi và thạch cao"
+  },
+  {
+    "business_code": 99,
+    "business_name": "Sản xuất sản phẩm chịu lửa"
+  },
+  {
+    "business_code": 100,
+    "business_name": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 101,
+    "business_name": "Tổ chức giới thiệu và xúc tiến thương mại"
+  },
+  {
+    "business_code": 102,
+    "business_name": "Bán buôn đồ uống"
+  },
+  {
+    "business_code": 103,
+    "business_name": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+  },
+  {
+    "business_code": 104,
+    "business_name": "Sản xuất đồ gỗ xây dựng"
+  },
+  {
+    "business_code": 105,
+    "business_name": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống"
+  },
+  {
+    "business_code": 106,
+    "business_name": "Sản xuất ca cao, sôcôla và mứt kẹo"
+  },
+  {
+    "business_code": 107,
+    "business_name": "Sản xuất các loại bánh từ bột"
+  },
+  {
+    "business_code": 108,
+    "business_name": "Sản xuất thực phẩm khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 109,
+    "business_name": "Sản xuất hàng may sẵn (trừ trang phục)"
+  },
+  {
+    "business_code": 110,
+    "business_name": "Sản xuất thảm, chăn đệm"
+  },
+  {
+    "business_code": 111,
+    "business_name": "Sản xuất khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 112,
+    "business_name": "Dịch vụ đóng gói"
+  },
+  {
+    "business_code": 113,
+    "business_name": "Vệ sinh chung nhà cửa"
+  },
+  {
+    "business_code": 114,
+    "business_name": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải"
+  },
+  {
+    "business_code": 115,
+    "business_name": "Bán buôn sản phẩm thuốc lá, thuốc lào"
+  },
+  {
+    "business_code": 116,
+    "business_name": "Sản xuất đồ uống không cồn, nước khoáng"
+  },
+  {
+    "business_code": 117,
+    "business_name": "Sản xuất mì ống, mỳ sợi và sản phẩm tương tự"
+  },
+  {
+    "business_code": 118,
+    "business_name": "Vận tải hành khách đường bộ khác"
+  },
+  {
+    "business_code": 119,
+    "business_name": "Khai thác đá, cát, sỏi, đất sét"
+  },
+  {
+    "business_code": 120,
+    "business_name": "Bán buôn gạo"
+  },
+  {
+    "business_code": 121,
+    "business_name": "Sản xuất bia và mạch nha ủ men bia"
+  },
+  {
+    "business_code": 122,
+    "business_name": "Chưng, tinh cất và pha chế các loại rượu mạnh"
+  },
+  {
+    "business_code": 123,
+    "business_name": "Sản xuất rượu vang"
+  },
+  {
+    "business_code": 124,
+    "business_name": "May trang phục (trừ trang phục từ da lông thú)"
+  },
+  {
+    "business_code": 125,
+    "business_name": "Sản xuất sản phẩm từ da lông thú"
+  },
+  {
+    "business_code": 126,
+    "business_name": "Sản xuất trang phục dệt kim, đan móc"
+  },
+  {
+    "business_code": 127,
+    "business_name": "Nghiên cứu thị trường và thăm dò dư luận"
+  },
+  {
+    "business_code": 128,
+    "business_name": "Sản xuất thiết bị điện khác"
+  },
+  {
+    "business_code": 129,
+    "business_name": "Sản xuất máy khai thác mỏ và xây dựng"
+  },
+  {
+    "business_code": 130,
+    "business_name": "Chế biến sữa và các sản phẩm từ sữa"
+  },
+  {
+    "business_code": 131,
+    "business_name": "Sản xuất thức ăn gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "business_code": 132,
+    "business_name": "Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su"
+  },
+  {
+    "business_code": 133,
+    "business_name": "Sản xuất linh kiện điện tử"
+  },
+  {
+    "business_code": 134,
+    "business_name": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính"
+  },
+  {
+    "business_code": 135,
+    "business_name": "Sản xuất thiết bị truyền thông"
+  },
+  {
+    "business_code": 136,
+    "business_name": "Sản xuất sản phẩm điện tử dân dụng"
+  },
+  {
+    "business_code": 137,
+    "business_name": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển"
+  },
+  {
+    "business_code": 138,
+    "business_name": "Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "business_code": 139,
+    "business_name": "Sản xuất dây cáp, sợi cáp quang học"
+  },
+  {
+    "business_code": 140,
+    "business_name": "Sản xuất dây, cáp điện và điện tử khác"
+  },
+  {
+    "business_code": 141,
+    "business_name": "Sản xuất thiết bị dây dẫn điện các loại"
+  },
+  {
+    "business_code": 142,
+    "business_name": "Sản xuất thiết bị điện chiếu sáng"
+  },
+  {
+    "business_code": 143,
+    "business_name": "Sản xuất đồ điện dân dụng"
+  },
+  {
+    "business_code": 144,
+    "business_name": "Sản xuất máy bơm, máy nén, vòi và van khác"
+  },
+  {
+    "business_code": 145,
+    "business_name": "Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động"
+  },
+  {
+    "business_code": 146,
+    "business_name": "Sản xuất lò nướng, lò luyện và lò nung"
+  },
+  {
+    "business_code": 147,
+    "business_name": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê"
+  },
+  {
+    "business_code": 148,
+    "business_name": "Sản xuất các thiết bị nâng, hạ và bốc xếp"
+  },
+  {
+    "business_code": 149,
+    "business_name": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)"
+  },
+  {
+    "business_code": 150,
+    "business_name": "Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén"
+  },
+  {
+    "business_code": 151,
+    "business_name": "Sản xuất máy thông dụng khác"
+  },
+  {
+    "business_code": 152,
+    "business_name": "Sản xuất máy nông nghiệp và lâm nghiệp"
+  },
+  {
+    "business_code": 153,
+    "business_name": "Sản xuất máy công cụ và máy tạo hình kim loại"
+  },
+  {
+    "business_code": 154,
+    "business_name": "Sản xuất máy luyện kim"
+  },
+  {
+    "business_code": 155,
+    "business_name": "Sản xuất máy chuyên dụng khác"
+  },
+  {
+    "business_code": 156,
+    "business_name": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít"
+  },
+  {
+    "business_code": 157,
+    "business_name": "Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "business_code": 158,
+    "business_name": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 159,
+    "business_name": "Sản xuất kim loại màu và kim loại quý"
+  },
+  {
+    "business_code": 160,
+    "business_name": "Đúc kim loại màu"
+  },
+  {
+    "business_code": 161,
+    "business_name": "Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại"
+  },
+  {
+    "business_code": 162,
+    "business_name": "Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng"
+  },
+  {
+    "business_code": 163,
+    "business_name": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 164,
+    "business_name": "Bán mô tô, xe máy"
+  },
+  {
+    "business_code": 165,
+    "business_name": "Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan"
+  },
+  {
+    "business_code": 166,
+    "business_name": "Bán buôn kim loại và quặng kim loại"
+  },
+  {
+    "business_code": 167,
+    "business_name": "Bán buôn tổng hợp"
+  },
+  {
+    "business_code": 168,
+    "business_name": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 169,
+    "business_name": "Vận tải hàng hóa đường sắt"
+  },
+  {
+    "business_code": 170,
+    "business_name": "Kho bãi và lưu giữ hàng hóa"
+  },
+  {
+    "business_code": 171,
+    "business_name": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác"
+  },
+  {
+    "business_code": 172,
+    "business_name": "Sửa chữa máy móc, thiết bị"
+  },
+  {
+    "business_code": 173,
+    "business_name": "Sửa chữa thiết bị điện tử và quang học"
+  },
+  {
+    "business_code": 174,
+    "business_name": "Sửa chữa thiết bị điện"
+  },
+  {
+    "business_code": 175,
+    "business_name": "Lắp đặt máy móc và thiết bị công nghiệp"
+  },
+  {
+    "business_code": 176,
+    "business_name": "Khai thác, xử lý và cung cấp nước"
+  },
+  {
+    "business_code": 177,
+    "business_name": "Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 178,
+    "business_name": "Bán lẻ hàng hóa đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 179,
+    "business_name": "Bán lẻ hàng hóa khác lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 180,
+    "business_name": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet"
+  },
+  {
+    "business_code": 181,
+    "business_name": "Hoạt động viễn thông khác"
+  },
+  {
+    "business_code": 182,
+    "business_name": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính"
+  },
+  {
+    "business_code": 183,
+    "business_name": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính"
+  },
+  {
+    "business_code": 184,
+    "business_name": "Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác"
+  },
+  {
+    "business_code": 185,
+    "business_name": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ và động cơ xe"
+  },
+  {
+    "business_code": 186,
+    "business_name": "Cổng thông tin"
+  },
+  {
+    "business_code": 187,
+    "business_name": "Vệ sinh nhà cửa và các công trình khác"
+  },
+  {
+    "business_code": 188,
+    "business_name": "Đại lý du lịch"
+  },
+  {
+    "business_code": 189,
+    "business_name": "Dịch vụ hỗ trợ giáo dục"
+  },
+  {
+    "business_code": 190,
+    "business_name": "Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 191,
+    "business_name": "Sản xuất đồ chơi, trò chơi"
+  },
+  {
+    "business_code": 192,
+    "business_name": "Điều hành tua du lịch"
+  },
+  {
+    "business_code": 193,
+    "business_name": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "business_code": 194,
+    "business_name": "Dịch vụ ăn uống khác"
+  },
+  {
+    "business_code": 195,
+    "business_name": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 196,
+    "business_name": "Hoạt động tư vấn quản lý"
+  },
+  {
+    "business_code": 197,
+    "business_name": "Hoạt động trung gian tiền tệ khác"
+  },
+  {
+    "business_code": 198,
+    "business_name": "Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "business_code": 199,
+    "business_name": "Gia công cơ khí; xử lý và tráng phủ kim loại"
+  },
+  {
+    "business_code": 200,
+    "business_name": "Chăn nuôi lợn"
+  },
+  {
+    "business_code": 201,
+    "business_name": "Trồng rừng và chăm sóc rừng"
+  },
+  {
+    "business_code": 202,
+    "business_name": "Trồng trọt, chăn nuôi hỗn hợp"
+  },
+  {
+    "business_code": 203,
+    "business_name": "Chăn nuôi gia cầm"
+  },
+  {
+    "business_code": 204,
+    "business_name": "Trồng cây lâu năm khác"
+  },
+  {
+    "business_code": 205,
+    "business_name": "Trồng rau, đậu các loại và trồng hoa, cây cảnh"
+  },
+  {
+    "business_code": 206,
+    "business_name": "Khai thác gỗ"
+  },
+  {
+    "business_code": 207,
+    "business_name": "Vận tải hàng hóa đường thuỷ nội địa"
+  },
+  {
+    "business_code": 208,
+    "business_name": "Sản xuất dầu, mỡ động, thực vật"
+  },
+  {
+    "business_code": 209,
+    "business_name": "Bán buôn sách, báo, tạp chí, văn phòng phẩm"
+  },
+  {
+    "business_code": 210,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)"
+  },
+  {
+    "business_code": 211,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp"
+  },
+  {
+    "business_code": 212,
+    "business_name": "Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 213,
+    "business_name": "Vận tải hành khách đường thuỷ nội địa"
+  },
+  {
+    "business_code": 214,
+    "business_name": "Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)"
+  },
+  {
+    "business_code": 215,
+    "business_name": "Kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "business_code": 216,
+    "business_name": "Cung ứng và quản lý nguồn lao động"
+  },
+  {
+    "business_code": 217,
+    "business_name": "Đào tạo trung cấp"
+  },
+  {
+    "business_code": 218,
+    "business_name": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 219,
+    "business_name": "Giáo dục khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 220,
+    "business_name": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm"
+  },
+  {
+    "business_code": 221,
+    "business_name": "Hoạt động dịch vụ trồng trọt"
+  },
+  {
+    "business_code": 222,
+    "business_name": "Hoạt động dịch vụ sau thu hoạch"
+  },
+  {
+    "business_code": 223,
+    "business_name": "Khai thác lâm sản khác trừ gỗ"
+  },
+  {
+    "business_code": 224,
+    "business_name": "Khai khoáng khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 225,
+    "business_name": "Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 226,
+    "business_name": "Lập trình máy vi tính"
+  },
+  {
+    "business_code": 227,
+    "business_name": "Sản xuất bao bì bằng gỗ"
+  },
+  {
+    "business_code": 228,
+    "business_name": "Hoạt động sáng tác, nghệ thuật và giải trí"
+  },
+  {
+    "business_code": 229,
+    "business_name": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 230,
+    "business_name": "Chuyển phát"
+  },
+  {
+    "business_code": 231,
+    "business_name": "Bốc xếp hàng hóa"
+  },
+  {
+    "business_code": 232,
+    "business_name": "Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tự"
+  },
+  {
+    "business_code": 233,
+    "business_name": "Thoát nước và xử lý nước thải"
+  },
+  {
+    "business_code": 234,
+    "business_name": "Sản xuất thiết bị và dụng cụ quang học"
+  },
+  {
+    "business_code": 235,
+    "business_name": "Sản xuất pin và ắc quy"
+  },
+  {
+    "business_code": 236,
+    "business_name": "Xử lý ô nhiễm và hoạt động quản lý chất thải khác"
+  },
+  {
+    "business_code": 237,
+    "business_name": "Dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "business_code": 238,
+    "business_name": "Khai thác quặng sắt"
+  },
+  {
+    "business_code": 239,
+    "business_name": "Khai thác và thu gom than bùn"
+  },
+  {
+    "business_code": 240,
+    "business_name": "Khai thác khoáng hoá chất và khoáng phân bón"
+  },
+  {
+    "business_code": 241,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy"
+  },
+  {
+    "business_code": 242,
+    "business_name": "Hoạt động cấp tín dụng khác"
+  },
+  {
+    "business_code": 243,
+    "business_name": "Chăn nuôi khác"
+  },
+  {
+    "business_code": 244,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ"
+  },
+  {
+    "business_code": 245,
+    "business_name": "Vận tải hàng hóa ven biển và viễn dương"
+  },
+  {
+    "business_code": 246,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ"
+  },
+  {
+    "business_code": 247,
+    "business_name": "Hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng khác"
+  },
+  {
+    "business_code": 248,
+    "business_name": "Sản xuất than cốc"
+  },
+  {
+    "business_code": 249,
+    "business_name": "Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên"
+  },
+  {
+    "business_code": 250,
+    "business_name": "Vận tải hành khách ven biển và viễn dương"
+  },
+  {
+    "business_code": 251,
+    "business_name": "Sản xuất xe có động cơ"
+  },
+  {
+    "business_code": 252,
+    "business_name": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan"
+  },
+  {
+    "business_code": 253,
+    "business_name": "Dịch vụ thông tin khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 254,
+    "business_name": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 255,
+    "business_name": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 256,
+    "business_name": "Sản xuất xe đạp và xe cho người tàn tật"
+  },
+  {
+    "business_code": 257,
+    "business_name": "Sản xuất mô tô, xe máy"
+  },
+  {
+    "business_code": 258,
+    "business_name": "Xử lý và tiêu huỷ rác thải độc hại"
+  },
+  {
+    "business_code": 259,
+    "business_name": "Thu gom rác thải không độc hại"
+  },
+  {
+    "business_code": 260,
+    "business_name": "Thu gom rác thải độc hại"
+  },
+  {
+    "business_code": 261,
+    "business_name": "Xử lý và tiêu huỷ rác thải không độc hại"
+  },
+  {
+    "business_code": 262,
+    "business_name": "Giáo dục mầm non"
+  },
+  {
+    "business_code": 263,
+    "business_name": "Giáo dục tiểu học"
+  },
+  {
+    "business_code": 264,
+    "business_name": "Đào tạo sơ cấp"
+  },
+  {
+    "business_code": 265,
+    "business_name": "Đào tạo thạc sỹ"
+  },
+  {
+    "business_code": 266,
+    "business_name": "Giáo dục thể thao và giải trí"
+  },
+  {
+    "business_code": 267,
+    "business_name": "Giáo dục văn hoá nghệ thuật"
+  },
+  {
+    "business_code": 268,
+    "business_name": "Hoạt động thư viện và lưu trữ"
+  },
+  {
+    "business_code": 269,
+    "business_name": "Dịch vụ hành chính văn phòng tổng hợp"
+  },
+  {
+    "business_code": 270,
+    "business_name": "Dịch vụ hỗ trợ tổng hợp"
+  },
+  {
+    "business_code": 271,
+    "business_name": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản"
+  },
+  {
+    "business_code": 272,
+    "business_name": "Tái chế phế liệu"
+  },
+  {
+    "business_code": 273,
+    "business_name": "Xuất bản phần mềm"
+  },
+  {
+    "business_code": 274,
+    "business_name": "Sửa chữa các sản phẩm kim loại đúc sẵn"
+  },
+  {
+    "business_code": 275,
+    "business_name": "Sản xuất sợi"
+  },
+  {
+    "business_code": 276,
+    "business_name": "Hoàn thiện sản phẩm dệt"
+  },
+  {
+    "business_code": 277,
+    "business_name": "Sản xuất vải dệt thoi"
+  },
+  {
+    "business_code": 278,
+    "business_name": "Sản xuất vải dệt kim, vải đan móc và vải không dệt khác"
+  },
+  {
+    "business_code": 279,
+    "business_name": "Sửa chữa thiết bị khác"
+  },
+  {
+    "business_code": 280,
+    "business_name": "Hoạt động viễn thông có dây"
+  },
+  {
+    "business_code": 281,
+    "business_name": "Hoạt động viễn thông không dây"
+  },
+  {
+    "business_code": 282,
+    "business_name": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng"
+  },
+  {
+    "business_code": 283,
+    "business_name": "Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "business_code": 284,
+    "business_name": "Bưu chính"
+  },
+  {
+    "business_code": 285,
+    "business_name": "Hoạt động hậu kỳ"
+  },
+  {
+    "business_code": 286,
+    "business_name": "Cho thuê thiết bị thể thao, vui chơi giải trí"
+  },
+  {
+    "business_code": 287,
+    "business_name": "Cho thuê băng, đĩa video"
+  },
+  {
+    "business_code": 288,
+    "business_name": "Hoạt động nhiếp ảnh"
+  },
+  {
+    "business_code": 289,
+    "business_name": "Rèn, dập, ép và cán kim loại; luyện bột kim loại"
+  },
+  {
+    "business_code": 290,
+    "business_name": "Hoạt động dịch vụ lâm nghiệp"
+  },
+  {
+    "business_code": 291,
+    "business_name": "Sản xuất nồi hơi (trừ nồi hơi trung tâm)"
+  },
+  {
+    "business_code": 292,
+    "business_name": "Giặt là, làm sạch các sản phẩm dệt và lông thú"
+  },
+  {
+    "business_code": 293,
+    "business_name": "Chế biến, bảo quản thịt và các sản phẩm từ thịt"
+  },
+  {
+    "business_code": 294,
+    "business_name": "Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa"
+  },
+  {
+    "business_code": 295,
+    "business_name": "Cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "business_code": 296,
+    "business_name": "Dịch vụ hệ thống bảo đảm an toàn"
+  },
+  {
+    "business_code": 297,
+    "business_name": "Sản xuất, truyền tải và phân phối điện"
+  },
+  {
+    "business_code": 298,
+    "business_name": "Chế biến và bảo quản rau quả"
+  },
+  {
+    "business_code": 299,
+    "business_name": "Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế"
+  },
+  {
+    "business_code": 300,
+    "business_name": "Sửa chữa thiết bị, đồ dùng gia đình"
+  },
+  {
+    "business_code": 301,
+    "business_name": "Bán lẻ hàng dệt, may sẵn, giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 302,
+    "business_name": "Khai thác quặng kim loại khác không chứa sắt"
+  },
+  {
+    "business_code": 303,
+    "business_name": "Bán lẻ vải, len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 304,
+    "business_name": "Khai thác và thu gom than cứng"
+  },
+  {
+    "business_code": 305,
+    "business_name": "Khai thác và thu gom than non"
+  },
+  {
+    "business_code": 306,
+    "business_name": "Hoạt động của các cơ sở thể thao"
+  },
+  {
+    "business_code": 307,
+    "business_name": "Khai thác quặng kim loại quí hiếm"
+  },
+  {
+    "business_code": 308,
+    "business_name": "Hoạt động của các câu lạc bộ thể thao"
+  },
+  {
+    "business_code": 309,
+    "business_name": "Hoạt động của các công viên vui chơi và công viên theo chủ đề"
+  },
+  {
+    "business_code": 310,
+    "business_name": "Cung ứng lao động tạm thời"
+  },
+  {
+    "business_code": 311,
+    "business_name": "Hoạt động làm thuê công việc gia đình trong các hộ gia đình"
+  },
+  {
+    "business_code": 312,
+    "business_name": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu"
+  },
+  {
+    "business_code": 313,
+    "business_name": "Sửa chữa thiết bị liên lạc"
+  },
+  {
+    "business_code": 314,
+    "business_name": "Sản xuất thiết bị sử dụng năng lượng chiết lưu"
+  },
+  {
+    "business_code": 315,
+    "business_name": "Bán lẻ hình thức khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 316,
+    "business_name": "Xay xát và sản xuất bột thô"
+  },
+  {
+    "business_code": 317,
+    "business_name": "Nghiên cứu và phát triển thực nghiệm khoa học tự nhiên và kỹ thuật"
+  },
+  {
+    "business_code": 318,
+    "business_name": "Dịch vụ chăm sóc và duy trì cảnh quan"
+  },
+  {
+    "business_code": 319,
+    "business_name": "Đào tạo đại học"
+  },
+  {
+    "business_code": 320,
+    "business_name": "Sản xuất các loại hàng dệt khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 321,
+    "business_name": "Chăn nuôi trâu, bò"
+  },
+  {
+    "business_code": 322,
+    "business_name": "Chăn nuôi dê, cừu"
+  },
+  {
+    "business_code": 323,
+    "business_name": "Vận tải bằng xe buýt"
+  },
+  {
+    "business_code": 324,
+    "business_name": "Nuôi trồng thuỷ sản nội địa"
+  },
+  {
+    "business_code": 325,
+    "business_name": "Nuôi trồng thuỷ sản biển"
+  },
+  {
+    "business_code": 326,
+    "business_name": "Khai thác thuỷ sản biển"
+  },
+  {
+    "business_code": 327,
+    "business_name": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)"
+  },
+  {
+    "business_code": 328,
+    "business_name": "Đóng thuyền, xuồng thể thao và giải trí"
+  },
+  {
+    "business_code": 329,
+    "business_name": "Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá"
+  },
+  {
+    "business_code": 330,
+    "business_name": "Sản xuất máy cho ngành dệt, may và da"
+  },
+  {
+    "business_code": 331,
+    "business_name": "Đóng tàu và cấu kiện nổi"
+  },
+  {
+    "business_code": 332,
+    "business_name": "Sản xuất dụng cụ thể dục, thể thao"
+  },
+  {
+    "business_code": 333,
+    "business_name": "Hoạt động chiếu phim"
+  },
+  {
+    "business_code": 334,
+    "business_name": "Trồng cây hàng năm khác"
+  },
+  {
+    "business_code": 335,
+    "business_name": "Nhân và chăm sóc cây giống nông nghiệp"
+  },
+  {
+    "business_code": 336,
+    "business_name": "Chăn nuôi ngựa, lừa, la"
+  },
+  {
+    "business_code": 337,
+    "business_name": "Hoạt động dịch vụ chăn nuôi"
+  },
+  {
+    "business_code": 338,
+    "business_name": "Xử lý hạt giống để nhân giống"
+  },
+  {
+    "business_code": 339,
+    "business_name": "Trồng cây có hạt chứa dầu"
+  },
+  {
+    "business_code": 340,
+    "business_name": "Xây dựng nhà để ở"
+  },
+  {
+    "business_code": 341,
+    "business_name": "Xây dựng công trình công ích khác"
+  },
+  {
+    "business_code": 342,
+    "business_name": "Xây dựng công trình viễn thông, thông tin liên lạc"
+  },
+  {
+    "business_code": 343,
+    "business_name": "Xây dựng nhà không để ở"
+  },
+  {
+    "business_code": 344,
+    "business_name": "Xây dựng công trình đường sắt"
+  },
+  {
+    "business_code": 345,
+    "business_name": "Xây dựng công trình điện"
+  },
+  {
+    "business_code": 346,
+    "business_name": "Xây dựng công trình cấp, thoát nước"
+  },
+  {
+    "business_code": 347,
+    "business_name": "Sao chép bản ghi các loại"
+  },
+  {
+    "business_code": 348,
+    "business_name": "Hoạt động ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "business_code": 349,
+    "business_name": "Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng"
+  },
+  {
+    "business_code": 350,
+    "business_name": "Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá"
+  },
+  {
+    "business_code": 351,
+    "business_name": "Sản xuất món ăn, thức ăn chế biến sẵn"
+  },
+  {
+    "business_code": 352,
+    "business_name": "Hoạt động thể thao khác"
+  },
+  {
+    "business_code": 353,
+    "business_name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng"
+  },
+  {
+    "business_code": 354,
+    "business_name": "Khai thác khí đốt tự nhiên"
+  },
+  {
+    "business_code": 355,
+    "business_name": "Khách sạn"
+  },
+  {
+    "business_code": 356,
+    "business_name": "Nhà hàng, quán ăn, hàng ăn uống"
+  },
+  {
+    "business_code": 357,
+    "business_name": "Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi và vật liệu xây dựng khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 358,
+    "business_name": "Khai thác cát, sỏi"
+  },
+  {
+    "business_code": 359,
+    "business_name": "Sản xuất các loại dây bện và lưới"
+  },
+  {
+    "business_code": 360,
+    "business_name": "Vận tải hàng hóa hàng không"
+  },
+  {
+    "business_code": 361,
+    "business_name": "Sản xuất giày dép"
+  },
+  {
+    "business_code": 362,
+    "business_name": "Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm"
+  },
+  {
+    "business_code": 363,
+    "business_name": "Sản xuất phân bón và hợp chất ni tơ"
+  },
+  {
+    "business_code": 364,
+    "business_name": "Sản xuất tinh bột và các sản phẩm từ tinh bột"
+  },
+  {
+    "business_code": 365,
+    "business_name": "Sản xuất giống thuỷ sản"
+  },
+  {
+    "business_code": 366,
+    "business_name": "Xây dựng công trình chế biến, chế tạo"
+  },
+  {
+    "business_code": 367,
+    "business_name": "Xây dựng công trình thủy"
+  },
+  {
+    "business_code": 368,
+    "business_name": "Xây dựng công trình khai khoáng"
+  },
+  {
+    "business_code": 369,
+    "business_name": "Giáo dục mẫu giáo"
+  },
+  {
+    "business_code": 370,
+    "business_name": "Giáo dục nhà trẻ"
+  },
+  {
+    "business_code": 371,
+    "business_name": "Hoạt động dịch vụ liên quan đến các cuộc gọi"
+  },
+  {
+    "business_code": 372,
+    "business_name": "Ươm giống cây lâm nghiệp"
+  },
+  {
+    "business_code": 373,
+    "business_name": "Trồng rừng và chăm sóc rừng lấy gỗ"
+  },
+  {
+    "business_code": 374,
+    "business_name": "Bán buôn máy móc, thiết bị y tế"
+  },
+  {
+    "business_code": 375,
+    "business_name": "Cơ sở lưu trú khác"
+  },
+  {
+    "business_code": 376,
+    "business_name": "Hoạt động dịch vụ phục vụ hôn lễ"
+  },
+  {
+    "business_code": 377,
+    "business_name": "Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp"
+  },
+  {
+    "business_code": 378,
+    "business_name": "Đào tạo cao đẳng"
+  },
+  {
+    "business_code": 379,
+    "business_name": "Sửa chữa đồ dùng cá nhân và gia đình khác"
+  },
+  {
+    "business_code": 380,
+    "business_name": "Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa"
+  },
+  {
+    "business_code": 381,
+    "business_name": "Hoạt động chăm sóc tập trung khác"
+  },
+  {
+    "business_code": 382,
+    "business_name": "Khai thác thuỷ sản nội địa"
+  },
+  {
+    "business_code": 383,
+    "business_name": "Cho thuê đồ dùng cá nhân và gia đình khác"
+  },
+  {
+    "business_code": 384,
+    "business_name": "Sản xuất thân xe có động cơ, rơ moóc và bán rơ moóc"
+  },
+  {
+    "business_code": 385,
+    "business_name": "Sản xuất đường"
+  },
+  {
+    "business_code": 386,
+    "business_name": "Bán buôn thủy sản"
+  },
+  {
+    "business_code": 387,
+    "business_name": "Thu nhặt sản phẩm từ rừng không phải gỗ và lâm sản khác"
+  },
+  {
+    "business_code": 388,
+    "business_name": "Vận tải hàng hóa ven biển"
+  },
+  {
+    "business_code": 389,
+    "business_name": "Bán buôn xăng dầu và các sản phẩm liên quan"
+  },
+  {
+    "business_code": 390,
+    "business_name": "Bán buôn gạch xây, ngói, đá, cát, sỏi"
+  },
+  {
+    "business_code": 391,
+    "business_name": "Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "business_code": 392,
+    "business_name": "Bán buôn khí đốt và các sản phẩm liên quan"
+  },
+  {
+    "business_code": 393,
+    "business_name": "Quán rượu, bia, quầy bar"
+  },
+  {
+    "business_code": 394,
+    "business_name": "Hoạt động viễn thông vệ tinh"
+  },
+  {
+    "business_code": 395,
+    "business_name": "Bán buôn đồ điện gia dụng, đèn và bộ đèn điện"
+  },
+  {
+    "business_code": 396,
+    "business_name": "Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện)"
+  },
+  {
+    "business_code": 397,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng"
+  },
+  {
+    "business_code": 398,
+    "business_name": "Cho thuê máy móc, thiết bị xây dựng"
+  },
+  {
+    "business_code": 399,
+    "business_name": "Sản xuất sản phẩm dầu mỏ tinh chế"
+  },
+  {
+    "business_code": 400,
+    "business_name": "Hoạt động của đại lý và môi giới bảo hiểm"
+  },
+  {
+    "business_code": 401,
+    "business_name": "Hoạt động bảo vệ cá nhân"
+  },
+  {
+    "business_code": 402,
+    "business_name": "Nhân và chăm sóc cây giống hàng năm"
+  },
+  {
+    "business_code": 403,
+    "business_name": "Nhân và chăm sóc cây giống lâu năm"
+  },
+  {
+    "business_code": 404,
+    "business_name": "Giáo dục trung học cơ sở"
+  },
+  {
+    "business_code": 405,
+    "business_name": "Giáo dục trung học phổ thông"
+  },
+  {
+    "business_code": 406,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người có công, người già và người khuyết tật không có khả năng tự chăm sóc"
+  },
+  {
+    "business_code": 407,
+    "business_name": "Sản xuất đồng hồ"
+  },
+  {
+    "business_code": 408,
+    "business_name": "Hoạt động trợ giúp xã hội không tập trung khác"
+  },
+  {
+    "business_code": 409,
+    "business_name": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "business_code": 410,
+    "business_name": "Bảo hiểm phi nhân thọ"
+  },
+  {
+    "business_code": 411,
+    "business_name": "Bảo hiểm nhân thọ"
+  },
+  {
+    "business_code": 412,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải hàng không"
+  },
+  {
+    "business_code": 413,
+    "business_name": "Vận tải hành khách hàng không"
+  },
+  {
+    "business_code": 414,
+    "business_name": "Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp"
+  },
+  {
+    "business_code": 415,
+    "business_name": "Lắp đặt hệ thống cấp, thoát nước"
+  },
+  {
+    "business_code": 416,
+    "business_name": "Sản xuất thuốc, hoá dược và dược liệu"
+  },
+  {
+    "business_code": 417,
+    "business_name": "Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột"
+  },
+  {
+    "business_code": 418,
+    "business_name": "Bán buôn dược phẩm và dụng cụ y tế"
+  },
+  {
+    "business_code": 419,
+    "business_name": "Bán buôn thực phẩm khác"
+  },
+  {
+    "business_code": 420,
+    "business_name": "Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp)"
+  },
+  {
+    "business_code": 421,
+    "business_name": "Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 422,
+    "business_name": "Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 423,
+    "business_name": "Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 424,
+    "business_name": "Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 425,
+    "business_name": "Trồng cây dược liệu"
+  },
+  {
+    "business_code": 426,
+    "business_name": "Dịch vụ đại lý tàu biển"
+  },
+  {
+    "business_code": 427,
+    "business_name": "Dịch vụ đại lý vận tải đường biển"
+  },
+  {
+    "business_code": 428,
+    "business_name": "Vận tải đường ống"
+  },
+  {
+    "business_code": 429,
+    "business_name": "Khai thác dầu thô"
+  },
+  {
+    "business_code": 430,
+    "business_name": "Vận tải hành khách đường sắt"
+  },
+  {
+    "business_code": 431,
+    "business_name": "Sản xuất đồ giả kim hoàn và chi tiết liên quan"
+  },
+  {
+    "business_code": 432,
+    "business_name": "Bán lẻ trong siêu thị, trung tâm thương mại"
+  },
+  {
+    "business_code": 433,
+    "business_name": "Cho thuê ôtô"
+  },
+  {
+    "business_code": 434,
+    "business_name": "Sản xuất nước đá"
+  },
+  {
+    "business_code": 435,
+    "business_name": "Sản xuất nước khoáng, nước tinh khiết đóng chai"
+  },
+  {
+    "business_code": 436,
+    "business_name": "Sản xuất đồ uống không cồn"
+  },
+  {
+    "business_code": 437,
+    "business_name": "Sửa chữa giày, dép, hàng da và giả da"
+  },
+  {
+    "business_code": 438,
+    "business_name": "Hoạt động của các bệnh viện, trạm xá"
+  },
+  {
+    "business_code": 439,
+    "business_name": "Hoạt động y tế dự phòng"
+  },
+  {
+    "business_code": 440,
+    "business_name": "Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "business_code": 441,
+    "business_name": "Hoạt động y tế khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 442,
+    "business_name": "Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "business_code": 443,
+    "business_name": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác"
+  },
+  {
+    "business_code": 444,
+    "business_name": "Bán buôn hàng gốm, sứ, thủy tinh"
+  },
+  {
+    "business_code": 445,
+    "business_name": "Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu"
+  },
+  {
+    "business_code": 446,
+    "business_name": "Bán buôn phế liệu, phế thải kim loại, phi kim loại"
+  },
+  {
+    "business_code": 447,
+    "business_name": "Khai thác muối"
+  },
+  {
+    "business_code": 448,
+    "business_name": "Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên"
+  },
+  {
+    "business_code": 449,
+    "business_name": "Môi giới"
+  },
+  {
+    "business_code": 450,
+    "business_name": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 451,
+    "business_name": "Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 452,
+    "business_name": "Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 453,
+    "business_name": "Photo, chuẩn bị tài liệu"
+  },
+  {
+    "business_code": 454,
+    "business_name": "Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 455,
+    "business_name": "Khai thác quặng uranium và quặng thorium"
+  },
+  {
+    "business_code": 456,
+    "business_name": "Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "business_code": 457,
+    "business_name": "Thuộc, sơ chế da; sơ chế và nhuộm da lông thú"
+  },
+  {
+    "business_code": 458,
+    "business_name": "Bán buôn phụ liệu may mặc và giày dép"
+  },
+  {
+    "business_code": 459,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày"
+  },
+  {
+    "business_code": 460,
+    "business_name": "Bán buôn sắt, thép"
+  },
+  {
+    "business_code": 461,
+    "business_name": "Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 462,
+    "business_name": "Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh"
+  },
+  {
+    "business_code": 463,
+    "business_name": "Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 464,
+    "business_name": "Bán buôn vali, cặp, túi, ví, hàng da và giả da khác"
+  },
+  {
+    "business_code": 465,
+    "business_name": "Bán buôn xi măng"
+  },
+  {
+    "business_code": 466,
+    "business_name": "Bán buôn kính xây dựng"
+  },
+  {
+    "business_code": 467,
+    "business_name": "Bán buôn gạch ốp lát và thiết bị vệ sinh"
+  },
+  {
+    "business_code": 468,
+    "business_name": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "business_code": 469,
+    "business_name": "Hoạt động cho thuê tài chính"
+  },
+  {
+    "business_code": 470,
+    "business_name": "Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu"
+  },
+  {
+    "business_code": 471,
+    "business_name": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 472,
+    "business_name": "Bán buôn đồ ngũ kim"
+  },
+  {
+    "business_code": 473,
+    "business_name": "Cung ứng và quản lý nguồn lao động trong nước"
+  },
+  {
+    "business_code": 474,
+    "business_name": "Hoạt động thú y"
+  },
+  {
+    "business_code": 475,
+    "business_name": "Bán buôn thóc, ngô và các loại hạt ngũ cốc khác"
+  },
+  {
+    "business_code": 476,
+    "business_name": "Bán buôn kim loại khác"
+  },
+  {
+    "business_code": 477,
+    "business_name": "Sản xuất sản phẩm khác từ gỗ"
+  },
+  {
+    "business_code": 478,
+    "business_name": "Bán buôn sơn, vécni"
+  },
+  {
+    "business_code": 479,
+    "business_name": "Bán buôn than đá và nhiên liệu rắn khác"
+  },
+  {
+    "business_code": 480,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thuỷ nội địa"
+  },
+  {
+    "business_code": 481,
+    "business_name": "Sản xuất vôi"
+  },
+  {
+    "business_code": 482,
+    "business_name": "Dạy nghề"
+  },
+  {
+    "business_code": 483,
+    "business_name": "Bán buôn hàng may mặc"
+  },
+  {
+    "business_code": 484,
+    "business_name": "Hoạt động của trụ sở văn phòng"
+  },
+  {
+    "business_code": 485,
+    "business_name": "Hoạt động xổ số, cá cược và đánh bạc"
+  },
+  {
+    "business_code": 486,
+    "business_name": "Sản xuất giường, tủ, bàn, ghế bằng gỗ"
+  },
+  {
+    "business_code": 487,
+    "business_name": "Môi giới hợp đồng hàng hoá và chứng khoán"
+  },
+  {
+    "business_code": 488,
+    "business_name": "Hoạt động pháp luật"
+  },
+  {
+    "business_code": 489,
+    "business_name": "Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác"
+  },
+  {
+    "business_code": 490,
+    "business_name": "Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài"
+  },
+  {
+    "business_code": 491,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên"
+  },
+  {
+    "business_code": 492,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược"
+  },
+  {
+    "business_code": 493,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp"
+  },
+  {
+    "business_code": 494,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ"
+  },
+  {
+    "business_code": 495,
+    "business_name": "Sản xuất sợi nhân tạo"
+  },
+  {
+    "business_code": 496,
+    "business_name": "Bán buôn chất dẻo dạng nguyên sinh"
+  },
+  {
+    "business_code": 497,
+    "business_name": "Bán lẻ dầu hoả, ga, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 498,
+    "business_name": "Kho bãi và lưu giữ hàng hóa trong kho ngoại quan"
+  },
+  {
+    "business_code": 499,
+    "business_name": "Bán buôn tơ, xơ, sợi dệt"
+  },
+  {
+    "business_code": 500,
+    "business_name": "Vận tải hàng hóa bằng ô tô chuyên dụng"
+  },
+  {
+    "business_code": 501,
+    "business_name": "Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng)"
+  },
+  {
+    "business_code": 502,
+    "business_name": "Bán buôn dầu thô"
+  },
+  {
+    "business_code": 503,
+    "business_name": "Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 504,
+    "business_name": "Bán buôn vàng, bạc và kim loại quý khác"
+  },
+  {
+    "business_code": 505,
+    "business_name": "Hoạt động đại diện, tư vấn pháp luật"
+  },
+  {
+    "business_code": 506,
+    "business_name": "Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 507,
+    "business_name": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 508,
+    "business_name": "Hoạt động thông tấn"
+  },
+  {
+    "business_code": 509,
+    "business_name": "Bán buôn cao su"
+  },
+  {
+    "business_code": 510,
+    "business_name": "Cưa, xẻ và bào gỗ"
+  },
+  {
+    "business_code": 511,
+    "business_name": "Bán buôn đồ uống không có cồn"
+  },
+  {
+    "business_code": 512,
+    "business_name": "Đại lý ô tô con (loại 12 chỗ ngồi trở xuống)"
+  },
+  {
+    "business_code": 513,
+    "business_name": "Bán lẻ đồ uống lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 514,
+    "business_name": "Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 515,
+    "business_name": "Bán buôn đồ uống có cồn"
+  },
+  {
+    "business_code": 516,
+    "business_name": "Bán buôn chè"
+  },
+  {
+    "business_code": 517,
+    "business_name": "Lắp đặt hệ thống lò sưởi và điều hoà không khí"
+  },
+  {
+    "business_code": 518,
+    "business_name": "Bán buôn ô tô con (loại 12 chỗ ngồi trở xuống)"
+  },
+  {
+    "business_code": 519,
+    "business_name": "Bán lẻ rau, quả trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 520,
+    "business_name": "Nghiên cứu và phát triển thực nghiệm khoa học xã hội và nhân văn"
+  },
+  {
+    "business_code": 521,
+    "business_name": "Trồng hoa, cây cảnh"
+  },
+  {
+    "business_code": 522,
+    "business_name": "Bán buôn hoa và cây"
+  },
+  {
+    "business_code": 523,
+    "business_name": "Bán buôn động vật sống"
+  },
+  {
+    "business_code": 524,
+    "business_name": "Sản xuất xi măng"
+  },
+  {
+    "business_code": 525,
+    "business_name": "Sản xuất thạch cao"
+  },
+  {
+    "business_code": 526,
+    "business_name": "Hoạt động viễn thông khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 527,
+    "business_name": "Vận tải hành khách đường bộ khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 528,
+    "business_name": "Nhà trọ, phòng trọ và các cơ sở lưu trú tương tự"
+  },
+  {
+    "business_code": 529,
+    "business_name": "Vận tải hành khách bằng taxi"
+  },
+  {
+    "business_code": 530,
+    "business_name": "Vận tải hành khách bằng xe buýt loại khác"
+  },
+  {
+    "business_code": 531,
+    "business_name": "Bán lẻ hoa, cây cảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 532,
+    "business_name": "Tái chế phế liệu phi kim loại"
+  },
+  {
+    "business_code": 533,
+    "business_name": "Xử lý và tiêu huỷ rác thải độc hại khác"
+  },
+  {
+    "business_code": 534,
+    "business_name": "Cho thuê máy móc, thiết bị nông, lâm nghiệp"
+  },
+  {
+    "business_code": 535,
+    "business_name": "Thu gom rác thải độc hại khác"
+  },
+  {
+    "business_code": 536,
+    "business_name": "Hoạt động thăm dò địa chất, nguồn nước"
+  },
+  {
+    "business_code": 537,
+    "business_name": "Bán lẻ mô tô, xe máy"
+  },
+  {
+    "business_code": 538,
+    "business_name": "Hoạt động dịch vụ phục vụ tang lễ"
+  },
+  {
+    "business_code": 539,
+    "business_name": "Sản xuất băng, đĩa từ tính và quang học"
+  },
+  {
+    "business_code": 540,
+    "business_name": "Hoạt động xuất bản khác"
+  },
+  {
+    "business_code": 541,
+    "business_name": "Xuất bản sách"
+  },
+  {
+    "business_code": 542,
+    "business_name": "Xuất bản các danh mục chỉ dẫn và địa chỉ"
+  },
+  {
+    "business_code": 543,
+    "business_name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ"
+  },
+  {
+    "business_code": 544,
+    "business_name": "Hoạt động bảo đảm xã hội bắt buộc"
+  },
+  {
+    "business_code": 545,
+    "business_name": "Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "business_code": 546,
+    "business_name": "Sản xuất sản phẩm thuốc lá"
+  },
+  {
+    "business_code": 547,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người già"
+  },
+  {
+    "business_code": 548,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người tàn tật"
+  },
+  {
+    "business_code": 549,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh)"
+  },
+  {
+    "business_code": 550,
+    "business_name": "Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh)"
+  },
+  {
+    "business_code": 551,
+    "business_name": "Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh"
+  },
+  {
+    "business_code": 552,
+    "business_name": "Hoạt động trợ giúp xã hội không tập trung đối với người già và người tàn tật"
+  },
+  {
+    "business_code": 553,
+    "business_name": "Đại lý xe có động cơ khác"
+  },
+  {
+    "business_code": 554,
+    "business_name": "Cho thuê xe có động cơ khác"
+  },
+  {
+    "business_code": 555,
+    "business_name": "Dịch vụ ăn uống phục vụ lưu động khác"
+  },
+  {
+    "business_code": 556,
+    "business_name": "Dịch vụ phục vụ đồ uống khác"
+  },
+  {
+    "business_code": 557,
+    "business_name": "Bán buôn dụng cụ thể dục, thể thao"
+  },
+  {
+    "business_code": 558,
+    "business_name": "Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 559,
+    "business_name": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 560,
+    "business_name": "Vận tải hàng hóa bằng phương tiện đường bộ khác"
+  },
+  {
+    "business_code": 561,
+    "business_name": "Bốc xếp hàng hóa đường bộ"
+  },
+  {
+    "business_code": 562,
+    "business_name": "Hoạt động tư vấn kỹ thuật có liên quan khác"
+  },
+  {
+    "business_code": 563,
+    "business_name": "Hoạt động công ty nắm giữ tài sản"
+  },
+  {
+    "business_code": 564,
+    "business_name": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 565,
+    "business_name": "Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 566,
+    "business_name": "Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 567,
+    "business_name": "Sản xuất thảm, chăn, đệm"
+  },
+  {
+    "business_code": 568,
+    "business_name": "Sản xuất hàng dệt sẵn (trừ trang phục)"
+  },
+  {
+    "business_code": 569,
+    "business_name": "Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp"
+  },
+  {
+    "business_code": 570,
+    "business_name": "Sản xuất nhạc cụ"
+  },
+  {
+    "business_code": 571,
+    "business_name": "Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 572,
+    "business_name": "Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội"
+  },
+  {
+    "business_code": 573,
+    "business_name": "Hoạt động của các phòng khám đa khoa, chuyên khoa"
+  },
+  {
+    "business_code": 574,
+    "business_name": "Hoạt động của các điểm truy cập internet"
+  },
+  {
+    "business_code": 575,
+    "business_name": "Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "business_code": 576,
+    "business_name": "Hoạt động kiến trúc"
+  },
+  {
+    "business_code": 577,
+    "business_name": "Hoạt động đo đạc bản đồ"
+  },
+  {
+    "business_code": 578,
+    "business_name": "Bán buôn giày dép"
+  },
+  {
+    "business_code": 579,
+    "business_name": "Bán lẻ thủy sản trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 580,
+    "business_name": "Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "business_code": 581,
+    "business_name": "Hoạt động bảo tồn, bảo tàng"
+  },
+  {
+    "business_code": 582,
+    "business_name": "Sản xuất sản phẩm khác từ plastic"
+  },
+  {
+    "business_code": 583,
+    "business_name": "Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng"
+  },
+  {
+    "business_code": 584,
+    "business_name": "Hoạt động phát thanh"
+  },
+  {
+    "business_code": 585,
+    "business_name": "Hoạt động truyền hình"
+  },
+  {
+    "business_code": 586,
+    "business_name": "Chế biến và đóng hộp thuỷ sản"
+  },
+  {
+    "business_code": 587,
+    "business_name": "Hoạt động ngân hàng trung ương"
+  },
+  {
+    "business_code": 588,
+    "business_name": "Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "business_code": 589,
+    "business_name": "Trồng rau các loại"
+  },
+  {
+    "business_code": 590,
+    "business_name": "Thoát nước"
+  },
+  {
+    "business_code": 591,
+    "business_name": "Sản xuất mỹ phẩm"
+  },
+  {
+    "business_code": 592,
+    "business_name": "Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính)"
+  },
+  {
+    "business_code": 593,
+    "business_name": "Sản xuất đầu máy xe lửa, xe điện và toa xe"
+  },
+  {
+    "business_code": 594,
+    "business_name": "Bán buôn cà phê"
+  },
+  {
+    "business_code": 595,
+    "business_name": "Khai thác đá"
+  },
+  {
+    "business_code": 596,
+    "business_name": "Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện"
+  },
+  {
+    "business_code": 597,
+    "business_name": "Khai thác thuỷ sản nước lợ"
+  },
+  {
+    "business_code": 598,
+    "business_name": "Khai thác thuỷ sản nước ngọt"
+  },
+  {
+    "business_code": 599,
+    "business_name": "Bán buôn mô tô, xe máy"
+  },
+  {
+    "business_code": 600,
+    "business_name": "Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "business_code": 601,
+    "business_name": "Sản xuất bao bì bằng giấy, bìa"
+  },
+  {
+    "business_code": 602,
+    "business_name": "Bán buôn vải"
+  },
+  {
+    "business_code": 603,
+    "business_name": "Sản xuất điện"
+  },
+  {
+    "business_code": 604,
+    "business_name": "Truyền tải và phân phối điện"
+  },
+  {
+    "business_code": 605,
+    "business_name": "Sản xuất máy sản xuất vật liệu xây dựng"
+  },
+  {
+    "business_code": 606,
+    "business_name": "Nuôi trồng thuỷ sản nước ngọt"
+  },
+  {
+    "business_code": 607,
+    "business_name": "Khai thác đất sét"
+  },
+  {
+    "business_code": 608,
+    "business_name": "Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn"
+  },
+  {
+    "business_code": 609,
+    "business_name": "Giáo dục trung cấp chuyên nghiệp"
+  },
+  {
+    "business_code": 610,
+    "business_name": "Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm"
+  },
+  {
+    "business_code": 611,
+    "business_name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 12 chỗ ngồi trở xuống)"
+  },
+  {
+    "business_code": 612,
+    "business_name": "Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 613,
+    "business_name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "business_code": 614,
+    "business_name": "Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác"
+  },
+  {
+    "business_code": 615,
+    "business_name": "Sản xuất dụng cụ chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "business_code": 616,
+    "business_name": "Đại lý mô tô, xe máy"
+  },
+  {
+    "business_code": 617,
+    "business_name": "Bán buôn rau, quả"
+  },
+  {
+    "business_code": 618,
+    "business_name": "Bán buôn xe có động cơ khác"
+  },
+  {
+    "business_code": 619,
+    "business_name": "Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "business_code": 620,
+    "business_name": "Chế biến và đóng hộp thịt"
+  },
+  {
+    "business_code": 621,
+    "business_name": "Chế biến và đóng hộp rau quả"
+  },
+  {
+    "business_code": 622,
+    "business_name": "Chế biến và bảo quản rau quả khác"
+  },
+  {
+    "business_code": 623,
+    "business_name": "Ký túc xá học sinh, sinh viên"
+  },
+  {
+    "business_code": 624,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp khác cho vận tải hàng không"
+  },
+  {
+    "business_code": 625,
+    "business_name": "Hoạt động của các tổ chức khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 626,
+    "business_name": "Sản xuất xe cơ giới chiến đấu dùng trong quân đội"
+  },
+  {
+    "business_code": 627,
+    "business_name": "Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "business_code": 628,
+    "business_name": "Xay xát"
+  },
+  {
+    "business_code": 629,
+    "business_name": "Kho bãi và lưu giữ hàng hóa trong kho khác"
+  },
+  {
+    "business_code": 630,
+    "business_name": "Đánh giá rủi ro và thiệt hại"
+  },
+  {
+    "business_code": 631,
+    "business_name": "Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 632,
+    "business_name": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác"
+  },
+  {
+    "business_code": 633,
+    "business_name": "Bán lẻ khác chưa được phân vào đâu trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "business_code": 634,
+    "business_name": "Vận tải hành khách bằng xe buýt trong nội thành"
+  },
+  {
+    "business_code": 635,
+    "business_name": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh"
+  },
+  {
+    "business_code": 636,
+    "business_name": "Thu nhặt lâm sản khác trừ gỗ"
+  },
+  {
+    "business_code": 637,
+    "business_name": "Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "business_code": 638,
+    "business_name": "Hoạt động quản lý quỹ"
+  },
+  {
+    "business_code": 639,
+    "business_name": "Chế biến và bảo quản nước mắm"
+  },
+  {
+    "business_code": 640,
+    "business_name": "Đào tạo tiến sỹ"
+  },
+  {
+    "business_code": 641,
+    "business_name": "Quản lý thị trường tài chính"
+  },
+  {
+    "business_code": 642,
+    "business_name": "Hoạt động an ninh, trật tự, an toàn xã hội"
+  },
+  {
+    "business_code": 643,
+    "business_name": "Hoạt động sản xuất chương trình truyền hình"
+  },
+  {
+    "business_code": 644,
+    "business_name": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít"
+  },
+  {
+    "business_code": 645,
+    "business_name": "Sản xuất thiết bị, dụng cụ y tế, nha khoa"
+  },
+  {
+    "business_code": 646,
+    "business_name": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan"
+  },
+  {
+    "business_code": 647,
+    "business_name": "Sản xuất giấy nhăn và bìa nhăn"
+  },
+  {
+    "business_code": 648,
+    "business_name": "Sản xuất bao bì từ plastic"
+  },
+  {
+    "business_code": 649,
+    "business_name": "Hoạt động của các tổ chức và cơ quan quốc tế"
+  },
+  {
+    "business_code": 650,
+    "business_name": "Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hoá và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)"
+  },
+  {
+    "business_code": 651,
+    "business_name": "Hoạt động của các hội nghề nghiệp"
+  },
+  {
+    "business_code": 652,
+    "business_name": "Hoạt động xổ số"
+  },
+  {
+    "business_code": 653,
+    "business_name": "Vận tải hàng hóa bằng xe thô sơ"
+  },
+  {
+    "business_code": 654,
+    "business_name": "Vận tải hàng hóa bằng xe lam, xe lôi, xe công nông"
+  },
+  {
+    "business_code": 655,
+    "business_name": "Hoạt động trợ giúp xã hội không tập trung đối với người có công, thương bệnh binh, người già và người tàn tật"
+  },
+  {
+    "business_code": 656,
+    "business_name": "Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 657,
+    "business_name": "Sản xuất chè"
+  },
+  {
+    "business_code": 658,
+    "business_name": "Sản xuất cà phê"
+  },
+  {
+    "business_code": 659,
+    "business_name": "Bán buôn thịt và các sản phẩm từ thịt"
+  },
+  {
+    "business_code": 660,
+    "business_name": "Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 661,
+    "business_name": "Bốc xếp hàng hóa cảng sông"
+  },
+  {
+    "business_code": 662,
+    "business_name": "Bốc xếp hàng hóa cảng biển"
+  },
+  {
+    "business_code": 663,
+    "business_name": "Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 664,
+    "business_name": "Trồng rừng và chăm sóc rừng tre, nứa"
+  },
+  {
+    "business_code": 665,
+    "business_name": "Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 666,
+    "business_name": "Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 667,
+    "business_name": "Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 668,
+    "business_name": "Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 669,
+    "business_name": "Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 670,
+    "business_name": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "business_code": 671,
+    "business_name": "Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 672,
+    "business_name": "Chế biến và bảo quản thuỷ sản đông lạnh"
+  },
+  {
+    "business_code": 673,
+    "business_name": "Chế biến và bảo quản thuỷ sản khô"
+  },
+  {
+    "business_code": 674,
+    "business_name": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản khác"
+  },
+  {
+    "business_code": 675,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần và người nghiện"
+  },
+  {
+    "business_code": 676,
+    "business_name": "Chế biến và bảo quản thịt và các sản phẩm từ thịt khác"
+  },
+  {
+    "business_code": 677,
+    "business_name": "Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 678,
+    "business_name": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "business_code": 679,
+    "business_name": "Vận tải hành khách ven biển"
+  },
+  {
+    "business_code": 680,
+    "business_name": "Sản xuất cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "business_code": 681,
+    "business_name": "Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 682,
+    "business_name": "Nuôi trồng thuỷ sản nước lợ"
+  },
+  {
+    "business_code": 683,
+    "business_name": "Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 684,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn"
+  },
+  {
+    "business_code": 685,
+    "business_name": "Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu"
+  },
+  {
+    "business_code": 686,
+    "business_name": "Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan)"
+  },
+  {
+    "business_code": 687,
+    "business_name": "Tái chế phế liệu kim loại"
+  },
+  {
+    "business_code": 688,
+    "business_name": "Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 689,
+    "business_name": "Bán buôn quặng kim loại"
+  },
+  {
+    "business_code": 690,
+    "business_name": "Xử lý nước thải"
+  },
+  {
+    "business_code": 691,
+    "business_name": "Thu gom rác thải y tế"
+  },
+  {
+    "business_code": 692,
+    "business_name": "Đấu giá"
+  },
+  {
+    "business_code": 693,
+    "business_name": "Hoạt động sản xuất phim video"
+  },
+  {
+    "business_code": 694,
+    "business_name": "Sản xuất hoá dược và dược liệu"
+  },
+  {
+    "business_code": 695,
+    "business_name": "Hoạt động của các trạm y tế cấp xã và trạm y tế bộ/ngành"
+  },
+  {
+    "business_code": 696,
+    "business_name": "Dịch vụ điều hành bay"
+  },
+  {
+    "business_code": 697,
+    "business_name": "Sản xuất máy chuyên dụng khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 698,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải ven biển và viễn dương"
+  },
+  {
+    "business_code": 699,
+    "business_name": "Hoạt động ấp trứng và sản xuất giống gia cầm"
+  },
+  {
+    "business_code": 700,
+    "business_name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội"
+  },
+  {
+    "business_code": 701,
+    "business_name": "Bán lẻ thiết bị gia đình khác lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 702,
+    "business_name": "Trồng rừng và chăm sóc rừng khác"
+  },
+  {
+    "business_code": 703,
+    "business_name": "Hoạt động của các hiệp hội kinh doanh và nghiệp chủ"
+  },
+  {
+    "business_code": 704,
+    "business_name": "Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 705,
+    "business_name": "Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 706,
+    "business_name": "Bán lẻ lương thực lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 707,
+    "business_name": "Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 708,
+    "business_name": "Hoạt động quốc phòng"
+  },
+  {
+    "business_code": 709,
+    "business_name": "Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí"
+  },
+  {
+    "business_code": 710,
+    "business_name": "Dịch vụ điều tra"
+  },
+  {
+    "business_code": 711,
+    "business_name": "Bán lẻ vải trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 712,
+    "business_name": "Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 713,
+    "business_name": "Bán lẻ giày dép trong các cửa hàng chuyên doanh"
+  },
+  {
+    "business_code": 714,
+    "business_name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt"
+  },
+  {
+    "business_code": 715,
+    "business_name": "Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 716,
+    "business_name": "Sản xuất vũ khí và đạn dược"
+  },
+  {
+    "business_code": 717,
+    "business_name": "Bán lẻ hàng may sẵn lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 718,
+    "business_name": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ"
+  },
+  {
+    "business_code": 719,
+    "business_name": "Hoạt động của các bệnh viện"
+  },
+  {
+    "business_code": 720,
+    "business_name": "Sản xuất và đóng hộp dầu, mỡ động, thực vật"
+  },
+  {
+    "business_code": 721,
+    "business_name": "Chế biến và bảo quản dầu, mỡ khác"
+  },
+  {
+    "business_code": 722,
+    "business_name": "Chăn nuôi gà"
+  },
+  {
+    "business_code": 723,
+    "business_name": "Chăn nuôi vịt, ngan, ngỗng"
+  },
+  {
+    "business_code": 724,
+    "business_name": "Hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "business_code": 725,
+    "business_name": "Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành"
+  },
+  {
+    "business_code": 726,
+    "business_name": "Hoạt động chiếu phim cố định"
+  },
+  {
+    "business_code": 727,
+    "business_name": "Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "business_code": 728,
+    "business_name": "Sản xuất, chế biến thực phẩm"
+  },
+  {
+    "business_code": 729,
+    "business_name": "Bảo quản gỗ"
+  },
+  {
+    "business_code": 730,
+    "business_name": "Tái bảo hiểm"
+  },
+  {
+    "business_code": 731,
+    "business_name": "Trồng cây gia vị"
+  },
+  {
+    "business_code": 732,
+    "business_name": "Chăn nuôi gia cầm khác"
+  },
+  {
+    "business_code": 733,
+    "business_name": "Cơ sở lưu trú khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 734,
+    "business_name": "Hoạt động của công đoàn"
+  },
+  {
+    "business_code": 735,
+    "business_name": "Hoạt động của các tổ chức tôn giáo"
+  },
+  {
+    "business_code": 736,
+    "business_name": "Bảo hiểm xã hội"
+  },
+  {
+    "business_code": 737,
+    "business_name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác"
+  },
+  {
+    "business_code": 738,
+    "business_name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh"
+  },
+  {
+    "business_code": 739,
+    "business_name": "Bán, bảo dưỡng và sửa chữa mô tô, xe máy, phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "business_code": 740,
+    "business_name": "Sản xuất bột thô"
+  },
+  {
+    "business_code": 741,
+    "business_name": "Vận tải hành khách bằng xe lam, xe lôi, xe máy"
+  },
+  {
+    "business_code": 742,
+    "business_name": "Sản xuất plastic nguyên sinh"
+  },
+  {
+    "business_code": 743,
+    "business_name": "Xử lý và tiêu huỷ rác thải y tế"
+  },
+  {
+    "business_code": 744,
+    "business_name": "Sản xuất mực in"
+  },
+  {
+    "business_code": 745,
+    "business_name": "Sản xuất thuốc các loại"
+  },
+  {
+    "business_code": 746,
+    "business_name": "Bảo hiểm phi nhân thọ khác"
+  },
+  {
+    "business_code": 747,
+    "business_name": "Bốc xếp hàng hóa ga đường sắt"
+  },
+  {
+    "business_code": 748,
+    "business_name": "Bán lẻ thực phẩm lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 749,
+    "business_name": "Hoạt động của các phòng khám nha khoa"
+  },
+  {
+    "business_code": 750,
+    "business_name": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "business_code": 751,
+    "business_name": "Vận tải hàng hóa viễn dương"
+  },
+  {
+    "business_code": 752,
+    "business_name": "Hoạt động pháp luật khác"
+  },
+  {
+    "business_code": 753,
+    "business_name": "Hoạt động khí tượng thuỷ văn"
+  },
+  {
+    "business_code": 754,
+    "business_name": "Trồng cây lâu năm"
+  },
+  {
+    "business_code": 755,
+    "business_name": "Chăn nuôi"
+  },
+  {
+    "business_code": 756,
+    "business_name": "Lắp đặt hệ thống điện, hệ thống cấp thoát nước và lắp đặt xây dựng khác"
+  },
+  {
+    "business_code": 757,
+    "business_name": "Trồng xoài, cây ăn quả vùng nhiệt đới và cận nhiệt đới"
+  },
+  {
+    "business_code": 758,
+    "business_name": "Xay xát và sản xuất bột"
+  },
+  {
+    "business_code": 759,
+    "business_name": "Sản xuất thực phẩm khác"
+  },
+  {
+    "business_code": 760,
+    "business_name": "Trồng đậu các loại"
+  },
+  {
+    "business_code": 761,
+    "business_name": "Hoạt động cá cược và đánh bạc"
+  },
+  {
+    "business_code": 762,
+    "business_name": "Sản xuất máy móc, thiết bị chưa được phân vào đâu"
+  },
+  {
+    "business_code": 763,
+    "business_name": "Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "business_code": 764,
+    "business_name": "Dệt"
+  },
+  {
+    "business_code": 765,
+    "business_name": "Sản xuất sản phẩm từ cao su và plastic"
+  },
+  {
+    "business_code": 766,
+    "business_name": "Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)"
+  },
+  {
+    "business_code": 767,
+    "business_name": "Hoạt động sản xuất phim điện ảnh"
+  },
+  {
+    "business_code": 768,
+    "business_name": "Sản xuất hoá chất và sản phẩm hoá chất"
+  },
+  {
+    "business_code": 769,
+    "business_name": "Trồng cây ăn quả khác"
+  },
+  {
+    "business_code": 770,
+    "business_name": "Bốc xếp hàng hóa cảng hàng không"
+  },
+  {
+    "business_code": 771,
+    "business_name": "Hoạt động chăm sóc tập trung khác chưa được phân vào đâu"
+  },
+  {
+    "business_code": 772,
+    "business_name": "Sản xuất mô tơ, máy phát"
+  },
+  {
+    "business_code": 773,
+    "business_name": "Xây dựng công trình kỹ thuật dân dụng"
+  },
+  {
+    "business_code": 774,
+    "business_name": "Hoạt động xây dựng chuyên dụng"
+  },
+  {
+    "business_code": 775,
+    "business_name": "Vận tải hành khách viễn dương"
+  },
+  {
+    "business_code": 776,
+    "business_name": "Vận tải hành khách bằng xe đạp, xe xích lô và xe thô sơ khác"
+  },
+  {
+    "business_code": 777,
+    "business_name": "Hoạt động chiếu phim lưu động"
+  },
+  {
+    "business_code": 778,
+    "business_name": "Nuôi trồng thuỷ sản"
+  },
+  {
+    "business_code": 779,
+    "business_name": "Sản xuất thuốc lá"
+  },
+  {
+    "business_code": 780,
+    "business_name": "Bán lẻ hàng dệt lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 781,
+    "business_name": "Bán lẻ giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "business_code": 782,
+    "business_name": "Hoạt động ngoại giao"
+  },
+  {
+    "business_code": 783,
+    "business_name": "Trồng cam, quít và các loại quả có múi khác"
+  },
+  {
+    "business_code": 784,
+    "business_name": "Trồng nhãn, vải, chôm chôm"
+  },
+  {
+    "business_code": 785,
+    "business_name": "Bảo hiểm sức khỏe"
+  },
+  {
+    "business_code": 786,
+    "business_name": "Đào tạo đại học và sau đại học"
+  },
+  {
+    "business_code": 787,
+    "business_name": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần"
+  },
+  {
+    "business_code": 788,
+    "business_name": "Sản xuất thuốc hút khác"
+  },
+  {
+    "business_code": 789,
+    "business_name": "Bán lẻ hình thức khác (trừ bán lẻ tại cửa hàng, lưu động hoặc tại chợ)"
+  },
+  {
+    "business_code": 790,
+    "business_name": "Vận tải hành khách bằng tàu điện ngầm"
+  },
+  {
+    "business_code": 791,
+    "business_name": "Trồng nho"
+  },
+  {
+    "business_code": 792,
+    "business_name": "Trồng táo, mận và các loại quả có hạt như táo"
+  },
+  {
+    "business_code": 793,
+    "business_name": "Hoạt động của Đảng Cộng sản, tổ chức chính trị - xã hội, hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "business_code": 794,
+    "business_name": "Sản xuất sản phẩm khác bằng kim loại; các dịch vụ xử lý, gia công kim loại"
+  },
+  {
+    "business_code": 795,
+    "business_name": "Phá dỡ và chuẩn bị mặt bằng"
+  },
+  {
+    "business_code": 796,
+    "business_name": "NÔNG NGHIỆP, LÂM NGHIỆP VÀ THUỶ SẢN"
+  },
+  {
+    "business_code": 797,
+    "business_name": "HOẠT ĐỘNG TÀI CHÍNH, NGÂN HÀNG VÀ BẢO HIỂM"
+  },
+  {
+    "business_code": 798,
+    "business_name": "BÁN BUÔN VÀ BÁN LẺ; SỬA CHỮA Ô TÔ, MÔ TÔ, XE MÁY VÀ XE CÓ ĐỘNG CƠ KHÁC"
+  },
+  {
+    "business_code": 799,
+    "business_name": "CÔNG NGHIỆP CHẾ BIẾN, CHẾ TẠO"
+  },
+  {
+    "business_code": 800,
+    "business_name": "VẬN TẢI KHO BÃI"
+  },
+  {
+    "business_code": 801,
+    "business_name": "XÂY DỰNG"
+  },
+  {
+    "business_code": 802,
+    "business_name": "SẢN XUẤT VÀ PHÂN PHỐI ĐIỆN, KHÍ ĐỐT, NƯỚC NÓNG, HƠI NƯỚC VÀ ĐIỀU HOÀ KHÔNG KHÍ"
+  },
+  {
+    "business_code": 803,
+    "business_name": "KHAI KHOÁNG"
+  },
+  {
+    "business_code": 804,
+    "business_name": "Hoạt động các trang mạng xã hội và hoạt động phân phối nội dung khác"
+  },
+  {
+    "business_code": 805,
+    "business_name": "Hoạt động xây dựng chương trình truyền hình, phát sóng truyền hình và phân phối video"
+  },
+  {
+    "business_code": 806,
+    "business_name": "Xuất bản phần mềm khác"
+  },
+  {
+    "business_code": 807,
+    "business_name": "Lập trình máy tính khác"
+  },
+  {
+    "business_code": 808,
+    "business_name": "Tư vấn máy tính và quản lý cơ sở hạ tầng máy tính"
+  },
+  {
+    "business_code": 809,
+    "business_name": "Hoạt động dịch vụ máy tính và công nghệ thông tin khác"
+  },
+  {
+    "business_code": 810,
+    "business_name": "Hoạt động dịch vụ trung gian cho xây dựng chuyên dụng"
+  },
+  {
+    "business_code": 811,
+    "business_name": "Bán lẻ thiết bị công nghệ thông tin và truyền thông"
+  },
+  {
+    "business_code": 812,
+    "business_name": "Dịch vụ trung gian cho hoạt động bất động sản"
+  },
+  {
+    "business_code": 813,
+    "business_name": "Hoạt động bất động sản khác trên cơ sở phí hoặc hợp đồng"
+  },
+  {
+    "business_code": 814,
+    "business_name": "Sửa chữa, bảo dưỡng ô tô và xe có động cơ khác"
+  },
+  {
+    "business_code": 815,
+    "business_name": "Sửa chữa, bảo dưỡng mô tô, xe máy"
+  },
+  {
+    "business_code": 816,
+    "business_name": "Sản xuất giường, tủ, bàn, ghế bằng kim loại"
+  },
+  {
+    "business_code": 817,
+    "business_name": "Hoạt động dịch vụ trung gian bán lẻ"
+  },
+  {
+    "business_code": 818,
+    "business_name": "Sản xuất linh kiện điện tử khác"
+  },
+  {
+    "business_code": 819,
+    "business_name": "Dịch vụ lưu trú ngắn ngày khác"
+  },
+  {
+    "business_code": 820,
+    "business_name": "Hoạt động dịch vụ trung gian cho hoạt động bưu chính và chuyển phát"
+  },
+  {
+    "business_code": 821,
+    "business_name": "Hoạt động dịch vụ trung gian cho vận tải hàng hóa"
+  },
+  {
+    "business_code": 822,
+    "business_name": "Hoạt động biểu diễn nghệ thuật"
+  },
+  {
+    "business_code": 823,
+    "business_name": "Hoạt động hỗ trợ khác cho sáng tạo nghệ thuật và biểu diễn nghệ thuật"
+  },
+  {
+    "business_code": 824,
+    "business_name": "Hoạt động của cơ sở và địa điểm nghệ thuật"
+  },
+  {
+    "business_code": 825,
+    "business_name": "Sửa chữa, bảo dưỡng máy tính, thiết bị thông tin và truyền thông"
+  },
+  {
+    "business_code": 826,
+    "business_name": "Cung ứng nguồn nhân lực khác"
+  },
+  {
+    "business_code": 827,
+    "business_name": "Hoạt động sáng tác văn học và sáng tác âm nhạc"
+  },
+  {
+    "business_code": 828,
+    "business_name": "Hoạt động sáng tạo nghệ thuật thị giác"
+  },
+  {
+    "business_code": 829,
+    "business_name": "Hoạt động sáng tạo nghệ thuật khác"
+  },
+  {
+    "business_code": 830,
+    "business_name": "Phát triển trò chơi điện tử, phần mềm trò chơi điện tử và các công cụ phần mềm trò chơi điện tử"
+  },
+  {
+    "business_code": 831,
+    "business_name": "Hoạt động dịch vụ trung gian cho sửa chữa, bảo dưỡng máy tính, đồ dùng cá nhân và gia đình, ô tô, mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "business_code": 832,
+    "business_name": "Bán buôn giường, tủ, bàn ghế và đồ nội thất tương tự trong gia đình, văn phòng, cửa hàng; thảm, đệm và thiết bị chiếu sáng"
+  },
+  {
+    "business_code": 833,
+    "business_name": "Hoạt động dịch vụ trung gian cho dịch vụ ăn uống"
+  },
+  {
+    "business_code": 834,
+    "business_name": "Hoạt động dịch vụ trung gian cho các khóa học và gia sư"
+  },
+  {
+    "business_code": 835,
+    "business_name": "Hoạt động hỗ trợ giáo dục khác"
+  },
+  {
+    "business_code": 836,
+    "business_name": "Dịch vụ bảo đảm an toàn khác"
+  },
+  {
+    "business_code": 837,
+    "business_name": "Hoạt động dịch vụ trung gian cho vận tải hành khách"
+  },
+  {
+    "business_code": 838,
+    "business_name": "Dịch vụ chăm sóc sắc đẹp và các hoạt động làm đẹp khác"
+  },
+  {
+    "business_code": 839,
+    "business_name": "Dịch vụ spa và xông hơi"
+  },
+  {
+    "business_code": 840,
+    "business_name": "Hoạt động dịch vụ phục vụ cá nhân khác"
+  },
+  {
+    "business_code": 841,
+    "business_name": "Hoạt động hành chính và hỗ trợ văn phòng"
+  },
+  {
+    "business_code": 842,
+    "business_name": "Hoạt động dịch vụ trung gian cho dịch vụ lưu trú"
+  },
+  {
+    "business_code": 843,
+    "business_name": "Hoạt động cổng tìm kiếm web và các dịch vụ thông tin khác"
+  },
+  {
+    "business_code": 844,
+    "business_name": "Hoạt động trung gian hoặc đại lý điện, khí đốt"
+  },
+  {
+    "business_code": 845,
+    "business_name": "Cơ sở hạ tầng công nghệ thông tin, xử lý dữ liệu, lưu trữ và các hoạt động liên quan"
+  },
+  {
+    "business_code": 846,
+    "business_name": "Xuất bản trò chơi điện tử"
+  },
+  {
+    "business_code": 847,
+    "business_name": "Bán lẻ sản phẩm văn hóa, giải trí khác chưa phân vào đâu"
+  },
+  {
+    "business_code": 848,
+    "business_name": "Hoạt động phiên dịch"
+  },
+  {
+    "business_code": 849,
+    "business_name": "Hoạt động thư viện"
+  },
+  {
+    "business_code": 850,
+    "business_name": "Hoạt động lưu trữ"
+  },
+  {
+    "business_code": 851,
+    "business_name": "Dịch vụ điều tra và hoạt động bảo vệ tư nhân"
+  },
+  {
+    "business_code": 852,
+    "business_name": "Hoạt động quan hệ công chúng"
+  },
+  {
+    "business_code": 853,
+    "business_name": "Sản xuất pin mặt trời, tấm pin mặt trời và bộ biến tần quang điện"
+  },
+  {
+    "business_code": 854,
+    "business_name": "Hoạt động trung gian cho dịch vụ cá nhân"
+  },
+  {
+    "business_code": 855,
+    "business_name": "Dịch vụ làm tóc"
+  },
+  {
+    "business_code": 856,
+    "business_name": "Hoạt động dịch vụ phục vụ tang lễ và các dịch vụ liên quan"
+  },
+  {
+    "business_code": 857,
+    "business_name": "Hoạt động môi giới và tiếp thị bằng sáng chế"
+  },
+  {
+    "business_code": 858,
+    "business_name": "Hoạt động dịch vụ hỗ trợ nuôi trồng thủy sản"
+  },
+  {
+    "business_code": 859,
+    "business_name": "Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "business_code": 860,
+    "business_name": "Hoạt động dịch vụ hỗ trợ khai thác thủy sản"
+  },
+  {
+    "business_code": 861,
+    "business_name": "Hoạt động dịch vụ trung gian cho các hoạt động dịch vụ hỗ trợ kinh doanh chưa được phân vào đâu (trừ trung gian tài chính)"
+  },
+  {
+    "business_code": 862,
+    "business_name": "Hoạt động dịch vụ trung gian cho thuê đồ dùng hữu hình và tài sản vô hình phi tài chính"
+  },
+  {
+    "business_code": 863,
+    "business_name": "Hoạt động dịch vụ trung gian cho các hoạt động chăm sóc tập trung"
+  },
+  {
+    "business_code": 864,
+    "business_name": "Hoạt động của khu bảo tồn thiên nhiên"
+  },
+  {
+    "business_code": 865,
+    "business_name": "Hoạt động đào tạo sử dụng phương tiện vận tải phi thương mại"
+  },
+  {
+    "business_code": 866,
+    "business_name": "Y TẾ VÀ HOẠT ĐỘNG TRỢ GIÚP XÃ HỘI"
+  },
+  {
+    "business_code": 867,
+    "business_name": "Giáo dục dự bị đại học"
+  },
+  {
+    "business_code": 868,
+    "business_name": "Hoạt động bảo tàng và sưu tập"
+  },
+  {
+    "business_code": 869,
+    "business_name": "Hoạt động di tích lịch sử và di tích"
+  },
+  {
+    "business_code": 870,
+    "business_name": "Hoạt động của các vườn bách thảo và bách thú"
+  },
+  {
+    "business_code": 871,
+    "business_name": "Bảo tồn, phục hồi và các hoạt động hỗ trợ khác cho di sản văn hóa"
+  },
+  {
+    "business_code": 872,
+    "business_name": "Hoạt động bao thanh toán"
+  },
+  {
+    "business_code": 873,
+    "business_name": "Hoạt động quỹ tín thác, tài sản và tài khoản đại lý"
+  },
+  {
+    "business_code": 874,
+    "business_name": "Hoạt động của các kênh dẫn vốn"
+  },
+  {
+    "business_code": 875,
+    "business_name": "Lâm nghiệp và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "business_code": 876,
+    "business_name": "Khai khoáng khác"
+  },
+  {
+    "business_code": 877,
+    "business_name": "Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị"
+  },
+  {
+    "business_code": 878,
+    "business_name": "Vận tải đường bộ khác"
+  },
+  {
+    "business_code": 879,
+    "business_name": "Kho bãi và các hoạt động hỗ trợ cho vận tải"
+  },
+  {
+    "business_code": 880,
+    "business_name": "Dịch vụ lưu trú"
+  },
+  {
+    "business_code": 881,
+    "business_name": "Dịch vụ ăn uống"
+  },
+  {
+    "business_code": 882,
+    "business_name": "Cho thuê máy móc, thiết bị (không kèm người điều khiển); cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "business_code": 883,
+    "business_name": "Hoạt động chứng khoán hóa"
+  },
+  {
+    "business_code": 884,
+    "business_name": "Hoạt động quỹ thị trường tiền tệ"
+  },
+  {
+    "business_code": 885,
+    "business_name": "Hoạt động quỹ đầu tư phi thị trường tiền tệ"
+  },
+  {
+    "business_code": 886,
+    "business_name": "Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học"
+  }
+]

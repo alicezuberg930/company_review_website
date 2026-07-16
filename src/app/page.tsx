@@ -25,7 +25,7 @@ const companies = [
   {
     name: 'Nexora Labs',
     initials: 'NL',
-    color: 'from-violet-500 to-indigo-600',
+    color: 'from-primary/70 to-primary',
     rating: '4.8',
     reviews: '1.2k',
     industry: 'Technology',
@@ -129,51 +129,51 @@ export default function page() {
       <header className='relative z-20 border-b border-slate-200/80 bg-white/90 backdrop-blur-xl'>
         <div className='mx-auto flex h-18 max-w-7xl items-center justify-between px-5 lg:px-8'>
           <a href='#' className='flex items-center gap-2.5' aria-label='Truework home'>
-            <span className='grid size-9 place-items-center rounded-xl bg-indigo-600 text-white shadow-lg shadow-indigo-200'>
+            <span className='grid size-9 place-items-center rounded-xl bg-primary text-primary-foreground shadow-lg shadow-primary/20'>
               <Building2 className='size-5' />
             </span>
             <span className='text-xl font-extrabold tracking-tight'>truework</span>
           </a>
           <nav className='hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex'>
-            <a href='#companies' className='transition hover:text-indigo-600'>Companies</a>
-            <a href='#reviews' className='transition hover:text-indigo-600'>Reviews</a>
-            <a href='#categories' className='transition hover:text-indigo-600'>Explore</a>
-            <a href='#employers' className='transition hover:text-indigo-600'>For employers</a>
+            <a href='#companies' className='transition hover:text-primary'>Companies</a>
+            <a href='#reviews' className='transition hover:text-primary'>Reviews</a>
+            <a href='#categories' className='transition hover:text-primary'>Explore</a>
+            <a href='#employers' className='transition hover:text-primary'>For employers</a>
           </nav>
           <div className='hidden items-center gap-2 sm:flex'>
             <Button variant='ghost' className='h-10 px-4'>Sign in</Button>
-            <Button className='h-10 bg-indigo-600 px-4 shadow-sm hover:bg-indigo-700'>Write a review</Button>
+            <Button className='h-10 px-4 shadow-sm'>Write a review</Button>
           </div>
           <Button variant='ghost' size='icon' className='sm:hidden' aria-label='Open menu'><Menu /></Button>
         </div>
       </header>
 
-      <section className='relative border-b border-indigo-100 bg-[radial-gradient(circle_at_top_left,#e8e7ff_0,transparent_34%),radial-gradient(circle_at_85%_25%,#dff7ff_0,transparent_28%),linear-gradient(to_bottom,#f8f7ff,#fbfcff)]'>
-        <div className='absolute left-[8%] top-24 size-24 rounded-full border border-indigo-200/60 bg-white/30 blur-[1px]' />
+      <section className='relative border-b border-primary/10 bg-[radial-gradient(circle_at_top_left,color-mix(in_oklch,var(--primary)_12%,transparent)_0,transparent_34%),radial-gradient(circle_at_85%_25%,#dff7ff_0,transparent_28%),linear-gradient(to_bottom,color-mix(in_oklch,var(--primary)_4%,white),#fbfcff)]'>
+        <div className='absolute left-[8%] top-24 size-24 rounded-full border border-primary/20 bg-white/30 blur-[1px]' />
         <div className='absolute right-[7%] top-16 size-44 rounded-full bg-cyan-200/20 blur-3xl' />
         <div className='relative mx-auto grid max-w-7xl items-center gap-14 px-5 py-20 lg:grid-cols-[1.1fr_.9fr] lg:px-8 lg:py-28'>
           <div>
-            <Badge className='mb-6 h-7 border border-indigo-200 bg-white/80 px-3 text-indigo-700 shadow-sm'>
-              <Sparkles className='fill-indigo-500' /> Real stories. Better careers.
+            <Badge className='mb-6 h-7 border border-primary/20 bg-white/80 px-3 text-primary shadow-sm'>
+              <Sparkles className='fill-primary' /> Real stories. Better careers.
             </Badge>
             <h1 className='max-w-3xl text-4xl font-extrabold leading-[1.08] tracking-[-0.045em] sm:text-6xl lg:text-7xl'>
-              Know the company<br />before you <span className='text-indigo-600'>join it.</span>
+              Know the company<br />before you <span className='text-primary'>join it.</span>
             </h1>
             <p className='mt-6 max-w-xl text-base leading-7 text-slate-600 sm:text-lg'>
               Honest reviews from real employees help you find a workplace where you can do your best work—and feel good doing it.
             </p>
-            <div className='mt-8 flex max-w-2xl flex-col gap-3 rounded-2xl border border-white bg-white p-2.5 shadow-[0_20px_60px_-20px_rgba(79,70,229,0.35)] sm:flex-row'>
+            <div className='mt-8 flex max-w-2xl flex-col gap-3 rounded-2xl border border-white bg-white p-2.5 shadow-[0_20px_60px_-20px_color-mix(in_oklch,var(--primary)_35%,transparent)] sm:flex-row'>
               <div className='flex flex-1 items-center gap-3 px-3'>
-                <Search className='size-5 text-indigo-500' />
+                <Search className='size-5 text-primary' />
                 <Input className='h-11 border-0 px-0 text-base shadow-none ring-0 focus-visible:ring-0' placeholder='Search a company or industry' aria-label='Search companies' />
               </div>
-              <Button className='h-11 bg-indigo-600 px-7 text-base hover:bg-indigo-700'>Search</Button>
+              <Button className='h-11 px-7 text-base'>Search</Button>
             </div>
             <div className='mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-slate-500'>
               <span className='font-semibold text-slate-700'>Popular:</span>
-              <a href='#' className='underline-offset-4 hover:text-indigo-600 hover:underline'>Nexora</a>
-              <a href='#' className='underline-offset-4 hover:text-indigo-600 hover:underline'>Northstar</a>
-              <a href='#' className='underline-offset-4 hover:text-indigo-600 hover:underline'>Common Goods</a>
+              <a href='#' className='underline-offset-4 hover:text-primary hover:underline'>Nexora</a>
+              <a href='#' className='underline-offset-4 hover:text-primary hover:underline'>Northstar</a>
+              <a href='#' className='underline-offset-4 hover:text-primary hover:underline'>Common Goods</a>
             </div>
           </div>
 
@@ -208,7 +208,7 @@ export default function page() {
             </Card>
           </div>
         </div>
-        <div className='mx-auto grid max-w-7xl grid-cols-2 gap-6 border-t border-indigo-100/70 px-5 py-7 sm:grid-cols-4 lg:px-8'>
+        <div className='mx-auto grid max-w-7xl grid-cols-2 gap-6 border-t border-primary/10 px-5 py-7 sm:grid-cols-4 lg:px-8'>
           {[['18k+', 'Companies'], ['420k+', 'Verified reviews'], ['94%', 'Would recommend'], ['2.5M', 'Monthly readers']].map(([value, label]) => (
             <div key={label} className='text-center'>
               <p className='text-2xl font-extrabold tracking-tight'>{value}</p>
@@ -221,11 +221,11 @@ export default function page() {
       <section id='companies' className='mx-auto max-w-7xl px-5 py-20 lg:px-8'>
         <div className='flex items-end justify-between gap-4'>
           <div>
-            <p className='text-sm font-bold uppercase tracking-[.18em] text-indigo-600'>Top workplaces</p>
+            <p className='text-sm font-bold uppercase tracking-[.18em] text-primary'>Top workplaces</p>
             <h2 className='mt-2 text-3xl font-extrabold tracking-tight sm:text-4xl'>Companies people love</h2>
             <p className='mt-3 text-slate-600'>Highly rated by the people who know them best.</p>
           </div>
-          <Button variant='ghost' className='hidden text-indigo-600 sm:flex'>
+          <Button variant='ghost' className='hidden text-primary sm:flex'>
             View all companies
             <ArrowRight />
           </Button>
@@ -244,7 +244,7 @@ export default function page() {
                 </div>
                 <div className='my-4 h-px bg-slate-100' />
                 <p className='flex items-center gap-2 text-xs text-slate-500'><MapPin className='size-3.5' />{company.location}</p>
-                <Badge variant='secondary' className='mt-4 bg-indigo-50 text-indigo-700'>{company.highlight}</Badge>
+                <Badge variant='secondary' className='mt-4 bg-primary/10 text-primary'>{company.highlight}</Badge>
               </CardContent>
             </Card>
           ))}
@@ -254,14 +254,14 @@ export default function page() {
       <section id='reviews' className='border-y border-slate-200 bg-white py-20'>
         <div className='mx-auto grid max-w-7xl gap-12 px-5 lg:grid-cols-[.7fr_1.3fr] lg:px-8'>
           <div className='lg:sticky lg:top-8 lg:self-start'>
-            <Badge className='bg-indigo-50 text-indigo-700'>From the community</Badge>
+            <Badge className='bg-primary/10 text-primary'>From the community</Badge>
             <h2 className='mt-5 text-3xl font-extrabold tracking-tight sm:text-4xl'>Fresh perspectives,<br />shared every day.</h2>
             <p className='mt-4 max-w-sm leading-7 text-slate-600'>Get the full picture from people across roles, teams, and experience levels.</p>
             <Button variant='outline' className='mt-7 h-10'>Read all reviews <ArrowRight /></Button>
           </div>
           <div className='space-y-4'>
             {reviews.map((review) => (
-              <Card key={review.company} className='border-0 bg-[#fbfcff] py-0 ring-1 ring-slate-200 transition hover:ring-indigo-200'>
+              <Card key={review.company} className='border-0 bg-[#fbfcff] py-0 ring-1 ring-slate-200 transition hover:ring-primary/20'>
                 <CardContent className='p-6 sm:p-7'>
                   <div className='flex flex-col justify-between gap-4 sm:flex-row sm:items-start'>
                     <div className='flex items-center gap-3'>
@@ -289,37 +289,37 @@ export default function page() {
 
       <section id='categories' className='mx-auto max-w-7xl px-5 py-20 lg:px-8'>
         <div className='text-center'>
-          <p className='text-sm font-bold uppercase tracking-[.18em] text-indigo-600'>Find your fit</p>
+          <p className='text-sm font-bold uppercase tracking-[.18em] text-primary'>Find your fit</p>
           <h2 className='mt-2 text-3xl font-extrabold tracking-tight sm:text-4xl'>Explore by industry</h2>
         </div>
         <div className='mt-9 grid gap-3 sm:grid-cols-2 lg:grid-cols-4'>
           {categories.map(({ name, count, icon: Icon, tone }) => (
-            <a key={name} href='#' className='group flex items-center gap-4 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-200 hover:shadow-md'>
+            <a key={name} href='#' className='group flex items-center gap-4 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-primary/20 hover:shadow-md'>
               <span className='flex-1'><span className='block font-bold'>{name}</span><span className='text-xs text-slate-500'>{count}</span></span>
-              <ChevronRight className='size-4 text-slate-300 transition group-hover:translate-x-1 group-hover:text-indigo-600' />
+              <ChevronRight className='size-4 text-slate-300 transition group-hover:translate-x-1 group-hover:text-primary' />
             </a>
           ))}
         </div>
       </section>
 
       <section id='employers' className='mx-auto max-w-7xl px-5 pb-20 lg:px-8'>
-        <div className='relative overflow-hidden rounded-[2rem] bg-indigo-600 px-6 py-12 text-white shadow-2xl shadow-indigo-200 sm:px-12 lg:flex lg:items-center lg:justify-between lg:px-16 lg:py-14'>
+        <div className='relative overflow-hidden rounded-[2rem] bg-primary px-6 py-12 text-primary-foreground shadow-2xl shadow-primary/20 sm:px-12 lg:flex lg:items-center lg:justify-between lg:px-16 lg:py-14'>
           <div className='absolute -right-16 -top-24 size-72 rounded-full border-12 border-white/10' />
           <div className='absolute bottom-25 left-[40%] size-52 rounded-full bg-cyan-300/20 blur-3xl' />
           <div className='relative max-w-2xl'>
-            <div className='flex items-center gap-2 text-sm font-semibold text-indigo-100'><Users className='size-5' /> Your voice makes work better</div>
+            <div className='flex items-center gap-2 text-sm font-semibold text-primary-foreground/80'><Users className='size-5' /> Your voice makes work better</div>
             <h2 className='mt-4 text-3xl font-extrabold tracking-tight sm:text-4xl'>Had a workplace experience worth sharing?</h2>
-            <p className='mt-4 leading-7 text-indigo-100'>Your anonymous review can help someone make a confident career decision. It only takes a few minutes.</p>
+            <p className='mt-4 leading-7 text-primary-foreground/80'>Your anonymous review can help someone make a confident career decision. It only takes a few minutes.</p>
           </div>
-          <Button className='relative mt-8 h-12 bg-white px-6 text-indigo-700 shadow-lg hover:bg-indigo-50 lg:mt-0'>Write an anonymous review <ArrowRight /></Button>
+          <Button className='relative mt-8 h-12 bg-primary-foreground px-6 text-primary shadow-lg hover:bg-primary-foreground/90 lg:mt-0'>Write an anonymous review <ArrowRight /></Button>
         </div>
       </section>
 
       <footer className='border-t border-slate-200 bg-white'>
         <div className='mx-auto flex max-w-7xl flex-col gap-5 px-5 py-8 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between lg:px-8'>
-          <div className='flex items-center gap-2 font-bold text-slate-900'><BriefcaseBusiness className='size-5 text-indigo-600' /> truework</div>
+          <div className='flex items-center gap-2 font-bold text-slate-900'><BriefcaseBusiness className='size-5 text-primary' /> truework</div>
           <p>© 2026 Truework. Better workplaces start with the truth.</p>
-          <div className='flex gap-5'><a href='#' className='hover:text-indigo-600'>Privacy</a><a href='#' className='hover:text-indigo-600'>Terms</a><a href='#' className='hover:text-indigo-600'>Contact</a></div>
+          <div className='flex gap-5'><a href='#' className='hover:text-primary'>Privacy</a><a href='#' className='hover:text-primary'>Terms</a><a href='#' className='hover:text-primary'>Contact</a></div>
         </div>
       </footer>
     </main>

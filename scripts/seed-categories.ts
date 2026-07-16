@@ -5,11 +5,6 @@ import { sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
 
-type CategoryJson = {
-  id: string;
-  name: string;
-};
-
 async function main() {
   const connectionString = process.env.POSTGRES_URL;
 
@@ -18,52 +13,44 @@ async function main() {
   }
 
   const categoriesPath = resolve("scripts/categories.json");
-  const categoryJson: unknown = JSON.parse(
+  const categoryJson = JSON.parse(
     await readFile(categoriesPath, "utf8"),
-  );
+  ) as Record<string, any>
 
   if (!Array.isArray(categoryJson)) {
     throw new TypeError("categories.json must contain an array");
   }
 
-  const normalizedCategories: CategoryJson[] = categoryJson.map(
-    (category: unknown, index) => {
+  const normalizedCategories = categoryJson.map(
+    (category, index) => {
       if (
         typeof category !== "object" ||
         category === null ||
-        !("id" in category) ||
-        !("name" in category) ||
-        typeof category.id !== "string" ||
-        typeof category.name !== "string" ||
-        !category.id.trim() ||
-        !category.name.trim()
+        !("business_code" in category) ||
+        !("business_name" in category) ||
+        typeof category.business_code !== "number" ||
+        typeof category.business_name !== "string"
       ) {
         throw new TypeError(
-          `Invalid category at index ${index}: expected non-empty id and name strings`,
+          `Invalid category at index ${index}: expected non-empty `,
         );
       }
 
       return {
-        id: category.id.trim(),
-        name: category.name.trim(),
+        id: category.business_code,
+        name: category.business_name,
       };
     },
   );
-
-  const uniqueCategories: NewCategory[] = [
-    ...new Map(
-      normalizedCategories.map((category) => [category.id, category]),
-    ).values(),
-  ];
 
   const client = postgres(connectionString, { prepare: false });
   const db = drizzle(client);
 
   try {
-    if (uniqueCategories.length > 0) {
+    if (normalizedCategories.length > 0) {
       await db
         .insert(categories)
-        .values(uniqueCategories)
+        .values(normalizedCategories)
         .onConflictDoUpdate({
           target: categories.id,
           set: {
@@ -73,7 +60,7 @@ async function main() {
         });
     }
 
-    console.log(`Imported ${uniqueCategories.length} categories.`);
+    console.log(`Imported ${normalizedCategories.length} categories.`);
   } finally {
     await client.end();
   }
