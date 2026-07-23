@@ -127,12 +127,12 @@ export default function page() {
       <SearchBox />
 
       <header className='relative z-20 border-b border-slate-200/80 bg-white/90 backdrop-blur-xl'>
-        <div className='mx-auto flex h-18 max-w-7xl items-center justify-between px-5 lg:px-8'>
-          <a href='#' className='flex items-center gap-2.5' aria-label='Truework home'>
+        <div className='mx-auto flex h-18 max-w-7xl items-center justify-between px-2'>
+          <a href='#' className='flex items-center gap-2.5' aria-label='Congtytui.me home'>
             <span className='grid size-9 place-items-center rounded-xl bg-primary text-primary-foreground shadow-lg shadow-primary/20'>
               <Building2 className='size-5' />
             </span>
-            <span className='text-xl font-extrabold tracking-tight'>truework</span>
+            <span className='text-xl font-extrabold tracking-tight'>Congtytui.me</span>
           </a>
           <nav className='hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex'>
             <a href='#companies' className='transition hover:text-primary'>Companies</a>
@@ -316,9 +316,9 @@ export default function page() {
       </section>
 
       <footer className='border-t border-slate-200 bg-white'>
-        <div className='mx-auto flex max-w-7xl flex-col gap-5 px-5 py-8 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between lg:px-8'>
-          <div className='flex items-center gap-2 font-bold text-slate-900'><BriefcaseBusiness className='size-5 text-primary' /> truework</div>
-          <p>© 2026 Truework. Better workplaces start with the truth.</p>
+        <div className='mx-auto flex max-w-7xl flex-col gap-5 px-2 py-8 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between'>
+          <div className='flex items-center gap-2 font-bold text-slate-900'><BriefcaseBusiness className='size-5 text-primary' />Congtytui.me</div>
+          <p>© 2026 Congtytui.me. Better workplaces start with the truth.</p>
           <div className='flex gap-5'><a href='#' className='hover:text-primary'>Privacy</a><a href='#' className='hover:text-primary'>Terms</a><a href='#' className='hover:text-primary'>Contact</a></div>
         </div>
       </footer>
