@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { categories, type NewCategory } from "@/lib/db/schemas/categories-schema";
+import { categories, type NewCategory } from "@/lib/db/schemas/categories";
 import { sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";

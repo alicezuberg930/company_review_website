@@ -121,6 +121,7 @@ function Stars({ rating = 5 }: { rating?: number }) {
 }
 
 export default function page() {
+  navigator
   return (
     <main className='min-h-screen overflow-hidden bg-[#fbfcff] text-slate-950'>
 

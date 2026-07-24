@@ -1,7 +1,7 @@
 import { createId } from "@/lib/create-cuid";
-import { categories } from "@/lib/db/schemas/categories-schema";
+import { categories } from "@/lib/db/schemas/categories";
 import { relations } from "drizzle-orm";
-import { date, pgEnum, pgTable, timestamp, varchar } from "drizzle-orm/pg-core";
+import { numeric, date, pgEnum, pgTable, timestamp, varchar, boolean } from "drizzle-orm/pg-core";
 
 export const companyStatusEnum = pgEnum("company_status", [
   "ngung-hoat-dong-nhung-chua-hoan-thanh-thu-tuc-dong-mst",
@@ -57,10 +57,15 @@ export const companies = pgTable("companies", {
   managedBy: varchar("managed_by", { length: 255 }).notNull(),
   phone: varchar("phone", { length: 255 }).notNull(),
   activeDate: date("active_date", { mode: "date" }).notNull(),
+  // extra informations
+  email: varchar("email", { length: 255 }),
+  smallestSize: numeric("smallest_size"),
+  biggestSize: numeric("biggest_size"),
+  logo: varchar("logo", { length: 255 }),
+  website: varchar("website", { length: 255 }),
+  averageScore: numeric("average_score"),
+  isDeleted: boolean('is_deleted'),
 });
-
-export type Company = typeof companies.$inferSelect;
-export type NewCompany = typeof companies.$inferInsert;
 
 export const companiesRelations = relations(companies, ({ one }) => ({
   category: one(categories, {
@@ -68,3 +73,6 @@ export const companiesRelations = relations(companies, ({ one }) => ({
     references: [categories.id],
   }),
 }));
+
+export type Company = typeof companies.$inferSelect;
+export type NewCompany = typeof companies.$inferInsert;

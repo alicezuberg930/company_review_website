@@ -5,7 +5,7 @@ import {
   companyBusinessTypeEnum,
   companyStatusEnum,
   type NewCompany,
-} from "@/lib/db/schemas/companies-schema";
+} from "@/lib/db/schemas/companies";
 import { eq, inArray } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";

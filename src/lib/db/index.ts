@@ -1,8 +1,8 @@
 import "server-only"
-import * as categoriesSchema from "./schemas/categories-schema"
-import * as companiesSchema from "./schemas/companies-schema"
-export * from "./schemas/categories-schema"
-export * from "./schemas/companies-schema"
+import * as categoriesSchema from "./schemas/categories"
+import * as companiesSchema from "./schemas/companies"
+export * from "./schemas/categories"
+export * from "./schemas/companies"
 import { drizzle } from 'drizzle-orm/postgres-js'
 import postgres from 'postgres'
 
